@@ -1,3 +1,0 @@
-# home
-NotesHub Notebook
-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
