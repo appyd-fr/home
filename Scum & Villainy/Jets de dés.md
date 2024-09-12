@@ -3,6 +3,7 @@ Scum and Villainy utilise des dés à six faces. Vous lancez plusieurs dés mais
 - Si vous obtenez plusieurs 6, c’est un succès critique : vous obtenez en outre un avantage supplémentaire.
 - Si c’est un 4 ou 5, c’est un succès partiel : vous accomplissez ce que vous tentiez de faire mais ce n’est pas sans 
 conséquences (complication, blessure, effet limité, etc.).
+
 Si le meilleur résultat est compris entre 1 et 3, c’est une issue défavorable. Les choses vont mal. Vous n’atteignez probablement pas votre objectif et vous subissez également des conséquences.
 Si jamais vous devez lancer des dés mais n’en avez aucun (voire un nombre négatif), lancez deux dés et prenez le résultat le plus bas. Dans un tel cas de figure, vous ne pouvez pas obtenir de succès critique.
 Tous les lancers de dés sont des variantes de cette mécanique fondamentale.
