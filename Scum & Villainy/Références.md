@@ -1,0 +1,3 @@
+- films : Les Gardiens de la Galaxie par James Gunn. Serenity par Joss Whedon. Star Wars par George Lucas.
+- tv : Cowboy Bebop par Keiko Mogumoto. Firefly par Joss Whedon. Killjoys par Michelle Lovretta. Lost Universe par Hajime Kanzaka. Blake’s 7 par Terry Nation. Outlaw Star par Takehito Iho.
+- générique : Ain’t No Rest for the Wicked par Cage the Elephant.
