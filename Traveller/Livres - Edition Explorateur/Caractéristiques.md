@@ -10,13 +10,14 @@ Lancez six fois 2D et attribuez les scores dans l'ordre que vous souhaitez aux s
 Chaque caractéristique est assortie d'un modificateur de dé (MD) indiqué dans le tableau suivant.
 
 |score de caractéristique|Modificateur de Dé|
----
+|---|---|
 |0 |-3|
-|1-2 -2
-3-5 -1
-6-8 0
-9-11 +1
-12-14 +2
-15+ +3
+|1-2|-2|
+|3-5|-1|
+|6-8|0|
+|9-11|1|
+|12-15|2|
+|1+|+3|
+
 Au fur et à mesure que vous progressez dans votre carrière, vos caractéristiques peuvent changer. Le score maximum pour une caractéristique est de 15 pour un
 Voyageur non augmenté.
