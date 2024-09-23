@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "0d045710eca0d819",
+    "type": "split",
+    "children": [
+      {
+        "id": "13378f8fee606b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f95c63089727f38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45c1e27fc55be290",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "adcfff21ccd21d2c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "08afb12bd6ea2f33",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0b0562fd7df9781e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8728f3108a81525f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bffa596284583335",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a275244254d0e0b3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "260c0fbad722a432",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ecfb99dedd0126c7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "e9ddc3d1ce3a5fab",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "578cfa38465cdc0e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9f95c63089727f38",
+  "lastOpenFiles": [
+    "Traveller/Livres - Edition Explorateur/Regles/Caractéristiques.md",
+    "Traveller/Livres - Edition Explorateur/Lore/Traveller.md",
+    "README.md",
+    "Syntaxe.md",
+    "index.md",
+    "Workflow/Scénarios.excalidraw.svg",
+    "Workflow",
+    "Posts.kanban.md",
+    "CNAME",
+    "Traveller/Livres - Edition Explorateur/Lore/Citations.md",
+    "Traveller/Livres - Edition Explorateur/Regles/Création de personnage.md",
+    "Traveller/Livres - Edition Explorateur/Regles",
+    "Traveller/Livres - Edition Explorateur/Regles/Compétences.md",
+    "Traveller/Livres - Edition Explorateur",
+    "Traveller",
+    "Traveller/Livres - Edition Explorateur/Lore"
+  ]
+}
