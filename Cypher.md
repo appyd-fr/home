@@ -51,4 +51,11 @@ Edge dicreases total, effort can be split, Edge 1 use / action
 
 Creating character : type, descriptor, focus, arc
 
+4 character benefits advance to the next tier. 
+Benefit costs 4 XP
+You must purchase one of each kind of benefit before you can purchase the same benefit again. 
 
+Capabilities: +4 points to stat Pools. 
+Perfection: +1 to 1 Edge
+Effort:  Effort score + 1.
+Skills: trained in 1 skill, other than attacks or defense. 
