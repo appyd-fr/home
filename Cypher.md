@@ -43,6 +43,7 @@ Resting restores pool
 Edges reduces effort and abilities costs
 
 Effort : -3 to pool, reduces difficulty by 1, subsequent -2 for diff -1
+Effort score : max nb of effort can be used
 
 Creating character : type, descriptor, focus, arc
 
