@@ -64,3 +64,5 @@ Spécial (count as skill)
 Reduce the cost for wearing armor. This option lowers the Speed cost for wearing armor by 1.
 +2 to your recovery rolls.
 +1 type-based ability from your tier or a lower tier
+
+Abilities : actions or enabler (constant or part of another action)
