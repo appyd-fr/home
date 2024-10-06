@@ -66,3 +66,13 @@ Reduce the cost for wearing armor. This option lowers the Speed cost for wearing
 +1 type-based ability from your tier or a lower tier
 
 Abilities : actions or enabler (constant or part of another action)
+
+DEFENSE TASKS
+
+Defense tasks are when a player makes a roll to keep something undesirable from happening to their PC. The type of defense task matters when using Effort.
+
+Might defense: Used for resisting poison, disease, and anything else that can be overcome with strength and health.
+
+Speed defense: Used for dodging attacks and escaping danger. This is by far the most commonly used defense task.
+
+Intellect defense: Used for fending off mental attacks or anything that might affect or influence one’s mind.
