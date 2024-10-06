@@ -45,7 +45,8 @@ Edges reduces effort and abilities costs
 Effort : -3 to pool, reduces difficulty by 1, subsequent -2 for diff -1
 +3 dmg , +2 for area dmg (min 1 dmg) / effort
 Effort score : max nb of effort can be used
-Edge dicreases total
+Max 
+Edge dicreases total, effort can be split, Edge 1 use / action
 
 Creating character : type, descriptor, focus, arc
 
