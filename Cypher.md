@@ -58,4 +58,4 @@ You must purchase one of each kind of benefit before you can purchase the same b
 Capabilities: +4 points to stat Pools. 
 Perfection: +1 to 1 Edge
 Effort:  Effort score + 1.
-Skills: trained in 1 skill, other than attacks or defense. 
+Skills: +1 level in 1 skill, other than attacks or defense. 
