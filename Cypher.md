@@ -23,3 +23,7 @@ Immediate distance : -3 m, free move
 Short distance : -15 m, turn action 
 Long distance : -30 m, turn action + roll
 Very long distance : -150 m
+
+GM intrusion : +1XP to the player, another player +1Xp
+Refuse intrusion -1XP
+Spend 1 xp : reroll keep best
