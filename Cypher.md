@@ -62,5 +62,5 @@ Skills: +1 level in 1 skill, other than attacks or defense.
 
 Spécial (count as skill)
 Reduce the cost for wearing armor. This option lowers the Speed cost for wearing armor by 1.
-+ 2 to your recovery rolls.
++2 to your recovery rolls.
 +1 type-based ability from your tier or a lower tier
