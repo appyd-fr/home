@@ -43,6 +43,7 @@ Resting restores pool
 Edges reduces effort and abilities costs
 
 Effort : -3 to pool, reduces difficulty by 1, subsequent -2 for diff -1
++3 dmg , +2 for area dmg (min 1 dmg) / effort
 Effort score : max nb of effort can be used
 Edge dicreases total
 
