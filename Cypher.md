@@ -36,6 +36,7 @@ Stats : might, speed, intellect
 Pool : raw, inate ability
 Edge : knowing how to use your potential
 Effort : typing in raw ability
+Tier is a measurement of power, toughness, and ability.
 
 injured, sickened, attacked, effort : reduces pool
 Resting restores pool
