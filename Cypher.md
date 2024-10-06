@@ -32,3 +32,18 @@ Spend 1 xp : reroll keep best
 
 Cypher: single use object / ability
 
+Stats : might, speed, intellect
+Pool : raw, inate ability
+Edge : knowing how to use your potential
+Effort : typing in raw ability
+
+injured, sickened, attacked, effort : reduces pool
+Resting restores pool
+
+Edges reduces effort and abilities costs
+
+Effort : -3 to pool, reduces difficulty by 1, subsequent -2 for diff -1
+
+Creating character : type, descriptor, focus, arc
+
+
