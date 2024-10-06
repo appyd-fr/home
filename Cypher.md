@@ -27,3 +27,6 @@ Very long distance : -150 m
 GM intrusion : +1XP to the player, another player +1Xp
 Refuse intrusion -1XP
 Spend 1 xp : reroll keep best
+
+Cypher: single use object / ability
+
