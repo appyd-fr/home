@@ -19,7 +19,7 @@ Roll:
 - 19 : +3 dmg, minor intrusion
 - 20 : +4 dmg, major intrusion
 
-Immediate distance : within reach or within a few steps. (3 m).
-Short distance : less than 15 m
-Long distance : less than 30 m or so.
-Very long distance less than 150 m or so. 
+Immediate distance : -3 m, free move
+Short distance : -15 m, turn action 
+Long distance : -30 m, turn action + roll
+Very long distance : -150 m
