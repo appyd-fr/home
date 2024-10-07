@@ -1,7 +1,7 @@
 Cypher 3 Stats -> DPS 4 Stats
 
-Stats : might, speed, intellect
-Pool : raw, inate ability
+might, speed, intellect --> Solide, Alerte, Avisé, **Tenace**
+Valeur : Pool : raw, inate ability
 Edge : knowing how to use your potential
 Effort : typing in raw ability
 Tier is a measurement of power, toughness, and ability. Max 6
