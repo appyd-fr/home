@@ -3,37 +3,46 @@ Aptitudes : Action, Compréhension, Confrontation, Interaction
 
 | |Alerte|Avisé|Solide|Tenace|
 |---|---|---|---|---|
-|Action|Survie|==Subterfuge==|==Athlétisme==|Vigilance|
+|Action|==Pilotage==|==Subterfuge==|==Athlétisme==|Vigilance|
 |Compréhension|==Techniques==|==Analyse==|Intuition|Savoirs|
 |Confrontation|==Armement==|Tactique|==Affrontement==|==Sang-froid==|
 |Interaction|Empathie|Influence|==Ascendant==|Conviction|
 
 #### Alerte
-#### Avisé
-#### Solide
-#### Tenace
-
-#### Action
-#### Compréhension
-#### Confrontation
-#### Interaction
-
-==Affrontement==
-==Analyse==
 ==Armement==
+==Pilotage==
+==Techniques==
+#### Avisé
+==Analyse==
+==Subterfuge==
+#### Solide
+==Affrontement==
 ==Ascendant==
 ==Athlétisme==
+#### Tenace
+==Sang-froid==
+
+#### Action
+==Athlétisme==
+==Pilotage==
+==Subterfuge==
+#### Compréhension
+==Analyse==
+==Techniques==
+#### Confrontation
+==Affrontement==
+==Armement==
+==Sang-froid==
+#### Interaction
+==Ascendant==
+
 ==Conviction==
 Coutumes
 ==Empathie==
 Influence
 Intuition
-==Pilotage==
-==Sang-froid==
 Savoirs
 Sciences
 Survie
-==Subterfuge==
 Tactique
-==Techniques==
 ==Vigilance==
