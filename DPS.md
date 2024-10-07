@@ -8,6 +8,16 @@ Aptitudes : Action, Compréhension, Confrontation, Interaction
 |Confrontation|Armement|Tactique|Affrontement|Sang-froid|
 |Interaction|Empathie|Influence|Ascendant|Conviction|
 
+#### Alerte
+#### Avisé
+#### Solide
+#### Tenace
+
+#### Action
+#### Compréhension
+#### Confrontation
+#### Interaction
+
 Conduite
 Coutumes
 Sciences
@@ -26,4 +36,8 @@ Armement
 Tactique
 Affrontement
 Sang-froid
-|Interaction|Empathie|Influence|Ascendant|Conviction
+Interaction
+Empathie
+Influence
+Ascendant
+Conviction
