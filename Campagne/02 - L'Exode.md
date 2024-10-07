@@ -1,16 +1,17 @@
-L'EXODE
-1–33
-Lorsque la Flotte de l’exode s’est élancée dans cet
-interminable voyage pour rejoindre un nouveau foyer hors de notre galaxie d’origine, elle a pris la Forge pour destination. D’innombrables générations n’ont alors connu que la vie à bord de ces vaisseaux titanesques, au cours de ce transit long d’un millénaire.
+
+
+#### Lorsque la Flotte de l’exode s’est élancée dans cet interminable voyage pour rejoindre un nouveau foyer hors de notre galaxie d’origine, elle a pris la Forge pour destination. D’innombrables générations n’ont alors connu que la vie à bord de ces vaisseaux titanesques, au cours de ce transit long d’un millénaire.
 Les réfugiés ont développé leur propre héritage culturel et transmis des traditions uniques issues de l’Exode. Certains sont même restés vivre à bord des vaisseaux depuis leur arrivée dans la Forge, se sentant réticents voire incapables de quitter ce cadre familier. Ces astronefs, les Foyers de Fer, naviguent toujours dans les profondeurs de cette galaxie.
-Accroche de Quête : Vos rêves sont hantés par les visions d’un vaisseau d’Exode en perdition depuis une avarie. Que voyez-vous en rêve ? Pourquoi ce vaisseau vous appelle-t-il ?
-34–67
-Une flotte de vaisseaux disparates — lancés à des vitesses fulgurantes par des moteurs supraluminiques expérimentaux — ont transporté vos ancêtres jusque dans la Forge. Toutefois la technologie qui propulsait ces vaisseaux est réputée avoir été la cause de la
+
+**Accroche de Quête** : Vos rêves sont hantés par les visions d’un vaisseau d’Exode en perdition depuis une avarie. Que voyez-vous en rêve ? Pourquoi ce vaisseau vous appelle-t-il ?
+
+#### Une flotte de vaisseaux disparates — lancés à des vitesses fulgurantes par des moteurs supraluminiques expérimentaux — ont transporté vos ancêtres jusque dans la Forge. Toutefois la technologie qui propulsait ces vaisseaux est réputée avoir été la cause de la
 Déchirure, un morcellement de la réalité qui nous affecte désormais ici.
 Les moteurs expérimentaux utilisés par la Flotte de l’exode ont depuis été interdits, mais le mal est fait. La Déchirure se répand à travers notre réalité comme des fissures se formant à la surface d’un étang gelé. Depuis ces lignes de fractures se déversent des réalités encore plus périlleuses que la nôtre. Avons-nous échappé à un cataclysme uniquement pour en créer un autre par inadvertance ?
-Accroche de Quête : Un moteur défaillant a déplacé l’un des vaisseaux de réfugiés dans l’espace mais aussi dans le temps. Des siècles plus tard, les voilà enfin arrivés. De leur point de vue, seules quelques semaines se sont écoulées. Pourquoi se méfie-t-on de ces gens ? Allez-vous les aider ou vous opposer à eux ?
-68–100
-De mystérieux portails aliens vous ont assuré de manière instantanée un aller sans retour possible vers la Forge.
+**Accroche de Quête** : Un moteur défaillant a déplacé l’un des vaisseaux de réfugiés dans l’espace mais aussi dans le temps. Des siècles plus tard, les voilà enfin arrivés. De leur point de vue, seules quelques semaines se sont écoulées. Pourquoi se méfie-t-on de ces gens ? Allez-vous les aider ou vous opposer à eux ?
+
+#### De mystérieux portails aliens vous ont assuré de manière instantanée un aller sans retour possible vers la Forge.
 Tandis qu’il étaient confrontés au cataclysme, nos ancêtres ont mis au jour un étrange pilier métallique situé sur la lune de notre monde d’origine. Une carte gravée à la surface de cette relique alien indiquait les coordonnées interstellaires des Portes de Fer — de gigantesques appareils alimentant des trous de ver artificiels. Dépourvus de toute autre option, les vaisseaux de l’Exode passèrent les portes pour débarquer ici, dans la Forge.
-Accroche de Quête : Un explorateur est porteur d’une nouvelle. Une porte active vient d’être découverte dans les profondeurs de la Forge. Pourquoi avez-vous juré de voyager jusque-là ? Quelle puissance ou ennemi cherche à prendre le contrôle du portail ?
+**Accroche de Quête** : Un explorateur est porteur d’une nouvelle. Une porte active vient d’être découverte dans les profondeurs de la Forge. Pourquoi avez-vous juré de voyager jusque-là ? Quelle puissance ou ennemi cherche à prendre le contrôle du portail ?
+
 ᴥ Votre famille ou votre héritage culturel apporte-t-ils des récits évoquant l’Exode ? Comment cet héritage vous affecte-t-il de nos jours ? Si vous avez fait le voeu d’étendre l’empreinte de votre peuple à travers la Forge, vous pourriez être un EXPLORATEUR. Si en revanche vous êtes un exilé ou un paria, vous pourriez être un RÉPROUVÉ.
