@@ -1,12 +1,14 @@
 #### Nous n’avons plus accès aux systèmes informatiques avancés. Au lieu de cela, il nous faut nous en remettre à des médiums que nous appelons les Adeptes.
 Nos ordinateurs se limitent à de simples systèmes numériques dotés d’une intelligence artificielle des plus basiques. La raison en est que :
-1–33
-Les énergies de la Forge ont un effet corrupteur sur les systèmes avancés
-34–67
-L’IA a été interdite à la suite de guerres contre les machines
-68–100
-Nous avons perdu le savoir nécessaire à la création et à la maintenance des IA
-Les Adeptes remplacent ces systèmes avancés. Ils consomment des psychotropes leur permettant de percevoir l’univers sous la forme d’un entrelacs éblouissant de données, dans lequel ils identifient des tendances leur permettant de prédire certains résultats avec une précision déconcertante. Toutefois il leur faut sacrifier une grande part d’eux-mêmes pour accéder à cette clairvoyance.
+|Choix|Option|
+|---|---|
+| |Les énergies de la Forge ont un effet corrupteur sur les systèmes avancés|
+| |L’IA a été interdite à la suite de guerres contre les machines|
+| |Nous avons perdu le savoir nécessaire à la création et à la maintenance des IA
+Les Adeptes remplacent ces systèmes avancés. |
+
+Ils consomment des psychotropes leur permettant de percevoir l’univers sous la forme d’un entrelacs éblouissant de données, dans lequel ils identifient des tendances leur permettant de prédire certains résultats avec une précision déconcertante. Toutefois il leur faut sacrifier une grande part d’eux-mêmes pour accéder à cette clairvoyance.
+
 Accroche de Quête : Un Adepte est tourmenté par un futur catastrophique qu’il a prédit aux habitants de la Forge. Que lui a révélé cette vision ?
 
 #### Les vestiges de machines intelligentes avancées sont convoités et accaparés par les puissants pour leur usage exclusif.
