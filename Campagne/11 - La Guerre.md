@@ -1,13 +1,16 @@
-Ici dans la Forge, les ressources sont bien trop
-précieuses pour soutenir des forces armées de métier et encore moins des armements avancés.
+#### Ici dans la Forge, les ressources sont bien trop précieuses pour soutenir des forces armées de métier et encore moins des armements avancés.
 Les armes sont par conséquent simples et abordables. Les vaisseaux spatiaux sont le plus souvent rafistolés à partir de pièces recyclées. La plupart des communautés comptent sur des bataillons hétéroclites de conscrits mal équipés ou de volontaires pour défendre leurs possessions, tandis que des pillards rôdent dans la Forge à la recherche de proies faciles.
-Accroche de Quête : Sur un monde tropical isolé, des pionniers récoltent une plante médicinale très rare. Une fois par an, des pillards se montrent pour leur confisquer une part substantielle de leur récolte. Cette année, la récolte a été particulièrement maigre et ils ne peuvent pas se permettre de subir cette rapine. Les pillards étant censés arriver dans les jours qui viennent, qu’allez-vous tenter pour protéger le peuple de cet avant-poste ?
-34–67
-Des soldats de métier défendent, voire étendent les domaines de ceux capables de leur verser une solde. Le restant d’entre nous ne peuvent compter que sur eux-mêmes.
+
+**Accroche de Quête** : Sur un monde tropical isolé, des pionniers récoltent une plante médicinale très rare. Une fois par an, des pillards se montrent pour leur confisquer une part substantielle de leur récolte. Cette année, la récolte a été particulièrement maigre et ils ne peuvent pas se permettre de subir cette rapine. Les pillards étant censés arriver dans les jours qui viennent, qu’allez-vous tenter pour protéger le peuple de cet avant-poste ?
+
+#### Des soldats de métier défendent, voire étendent les domaines de ceux capables de leur verser une solde. Le restant d’entre nous ne peuvent compter que sur eux-mêmes.
 Les guildes de mercenaires ont une certaine influence dans la Forge. Certaines se résument à une douzaine d’hommes de main pugnaces. D’autres sont des entreprises s’étendant sur plusieurs secteurs, qui déploient des légions de combattants redoutables et des flottes de puissants vaisseaux spatiaux. La plupart n’entretiennent aucune allégeance, hormis envers le plus offrant.
-Accroche de Quête : Un détachement de mercenaires a été dépêché afin de réprimer une rébellion qui agite un avant-poste minier. Au lieu de suivre les ordres, les soldats soutiennent désormais la cause des mineurs. Quelle a été la cause de ce revirement soudain ? Qu’allez-vous tentez pour venir en aide à ces renégats, tandis que le plein contingent de leurs anciens camarades est déployé contre eux ?
-68–100
-La guerre est éternelle. Des talentueux armuriers et autres fabricants de vaisseaux produisent des outils hi-tech semant la mort et la destruction. Les factions dominantes déploient de puissantes flottes et des régiments entiers de vétérans endurcis.
+
+**Accroche de Quête** : Un détachement de mercenaires a été dépêché afin de réprimer une rébellion qui agite un avant-poste minier. Au lieu de suivre les ordres, les soldats soutiennent désormais la cause des mineurs. Quelle a été la cause de ce revirement soudain ? Qu’allez-vous tentez pour venir en aide à ces renégats, tandis que le plein contingent de leurs anciens camarades est déployé contre eux ?
+
+#### La guerre est éternelle. Des talentueux armuriers et autres fabricants de vaisseaux produisent des outils hi-tech semant la mort et la destruction. Les factions dominantes déploient de puissantes flottes et des régiments entiers de vétérans endurcis.
 Les puissants ont accès à des armes dont le potentiel de destruction est horrible. Les escarmouches et les guerres ravagent les domaines peuplés, qui sont pour la plupart des pions ou des victimes collatérales de ces campagnes destructrices.
-Accroche de Quête : Un armurier vient de créer une arme embarqué expérimentale pour vaisseau, le Canon Néant, capable de fracturer la trame-même de la réalité. Pris de remords, il espère désormais détruire son invention avant de la voir déployée. Qu’est-ce qui a provoqué ce revirement de conscience ? En quoi tout cela vous implique-t-il ?
+
+**Accroche de Quête** : Un armurier vient de créer une arme embarqué expérimentale pour vaisseau, le Canon Néant, capable de fracturer la trame-même de la réalité. Pris de remords, il espère désormais détruire son invention avant de la voir déployée. Qu’est-ce qui a provoqué ce revirement de conscience ? En quoi tout cela vous implique-t-il ?
+
 ᴥ Avez-vous participé à l’une de ces guerres ? Si vous êtes un soldat ayant fait l’expérience du front, vous pourriez être un VÉTÉRAN. Si vous jurez des voeux de combattre pour le plus offrant, vous pourriez être un MERCENAIRE. Si vous favorisez une arme ou une tactique en particulier, vous pourriez suivre une voie telle qu’ARCHER, FINE LAME, DÉMOLISSEUR, CANONNIER, PISTOLERO ou encore SNIPER.
