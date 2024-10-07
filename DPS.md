@@ -1,48 +1,32 @@
-Attributs : Alerte, Avisé, Solide, Tenace
-Aptitudes : Action, Compréhension, Confrontation, Interaction
+## Attributs 
+#### Alerte
+Armement, Empathie, Pilotage, Techniques
+#### Avisé
+Analyse, Conviction, Subterfuge, Tactique
+#### Solide
+Affrontement, Ascendant, Athlétisme, Vigilance
+#### Tenace
+Coutumes, Sang-froid, Savoirs, Survie
+## Aptitudes
+#### Action
+Athlétisme, Pilotage, Subterfuge, Survie
+#### Compréhension
+Analyse, Savoirs, Techniques, Vigilance
+#### Confrontation
+Affrontement, Armement, Sang-froid, Tactique
+#### Interaction
+Ascendant, Conviction, Coutumes, Empathie
 
 | |Alerte|Avisé|Solide|Tenace|
 |---|---|---|---|---|
-|Action|==Pilotage==|==Subterfuge==|==Athlétisme==|Vigilance|
-|Compréhension|==Techniques==|==Analyse==|Intuition|Savoirs|
-|Confrontation|==Armement==|Tactique|==Affrontement==|==Sang-froid==|
-|Interaction|Empathie|Influence|==Ascendant==|Conviction|
+|Action|==Pilotage==|==Subterfuge==|==Athlétisme==|==Survie==|
+|Compréhension|==Techniques==|==Analyse==|==Vigilance==|==Savoirs==|
+|Confrontation|==Armement==|==Tactique==|==Affrontement==|==Sang-froid==|
+|Interaction|==Empathie==|==Conviction==|==Ascendant==|==Coutumes==|
 
-#### Alerte
-==Armement==
-==Pilotage==
-==Techniques==
-#### Avisé
-==Analyse==
-==Subterfuge==
-#### Solide
-==Affrontement==
-==Ascendant==
-==Athlétisme==
-#### Tenace
-==Sang-froid==
 
-#### Action
-==Athlétisme==
-==Pilotage==
-==Subterfuge==
-#### Compréhension
-==Analyse==
-==Techniques==
-#### Confrontation
-==Affrontement==
-==Armement==
-==Sang-froid==
-#### Interaction
-==Ascendant==
 
-==Conviction==
-Coutumes
-==Empathie==
-Influence
-Intuition
-Savoirs
-Sciences
-Survie
-Tactique
-==Vigilance==
+
+
+
+
