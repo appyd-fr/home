@@ -18,26 +18,22 @@ Aptitudes : Action, Compréhension, Confrontation, Interaction
 #### Confrontation
 #### Interaction
 
-Conduite
-Coutumes
-Sciences
-Action
-Survie
-Subterfuge
-Athlétisme
-Vigilance
-Compréhension
-Techniques
-Analyse
-Intuition
-Savoirs
-Confrontation
-Armement
-Tactique
 Affrontement
-Sang-froid
-Interaction
+Analyse
+Armement
+Ascendant
+Athlétisme
+Conviction
+Coutumes
 Empathie
 Influence
-Ascendant
-Conviction
+Intuition
+Pilotage
+Sang-froid
+Savoirs
+Sciences
+Survie
+Subterfuge
+Tactique
+Techniques
+Vigilance
