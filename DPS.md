@@ -1,4 +1,5 @@
 ## Attributs 
+Compétences par Attribut
 #### Alerte
 Armement, Empathie, Pilotage, Techniques
 #### Avisé
@@ -8,6 +9,7 @@ Affrontement, Ascendant, Athlétisme, Vigilance
 #### Tenace
 Coutumes, Sang-froid, Savoirs, Survie
 ## Aptitudes
+Compétences par Aptitude
 #### Action
 Athlétisme, Pilotage, Subterfuge, Survie
 #### Compréhension
@@ -16,7 +18,7 @@ Analyse, Savoirs, Techniques, Vigilance
 Affrontement, Armement, Sang-froid, Tactique
 #### Interaction
 Ascendant, Conviction, Coutumes, Empathie
-
+## Compétences
 | |Alerte|Avisé|Solide|Tenace|
 |---|---|---|---|---|
 |Action|==Pilotage==|==Subterfuge==|==Athlétisme==|==Survie==|
