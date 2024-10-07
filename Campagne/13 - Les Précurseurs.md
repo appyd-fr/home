@@ -1,0 +1,16 @@
+#### Au fil d’éons innombrables, des myriades de civilisations se sont développées et ont périclité au sein de la Forge. De nos jours, ces gens que nous appelons les vermisseaux — des équipages de charognards et autres explorateurs audacieux — plongent au plus profond de ces mystérieuses ruines et autres monuments laissés par ces êtres antédiluviens.
+Des technologies incompréhensibles, les ravages inexorables du temps, ainsi que les étranges énergies de la Forge se sont ligués pour corrompre ces reliquats des précurseurs. En dépit de tous ces périls, les vermisseaux fouillent ces lieux funestes à la recherche de ressources utiles et de découvertes intéressantes. Toutefois certains secrets devraient rester enfouis, et nombreux sont ceux qui ont été perdus dans les profondeurs maudites des reliquats.
+
+**Accroche de Quête** : Dans les anneaux glacés d’un monde isolé, un reliquat des précurseurs a été découvert par des vermisseaux charognards. Leur équipe s’est enfoncée dans cette relique, pour ne jamais en ressortir. Quelles relations avez-vous avec cet équipage de vermisseaux ? Pourquoi avez-vous juré d’enquêter sur le sort qu’ils ont subi ?
+
+#### L’Ascendance, un empire stellaire avancé, régnait autrefois sur l’entièreté de la Forge. Leurs ruines aux fonctions insondables sont tout ce qu’il subsiste encore de leur héritage, bien que ces endroits soient désormais à la dérive par rapport à notre réalité.
+Les ruines de l’Ascendance sont ainsi capables d’apparaître spontanément, en s’échouant tels des débris d’épave poussés par les flots du temps. Leur gravité exotique et l’atmosphère qui y règne n’obéissent pas à nos lois naturelles. Certains sont corrompus et en ruine. D’autres semblent flambant neufs et intacts. Quelques-uns sont inexplicablement les deux à la fois. Ils sont le chaos lui-même.
+
+**Accroche de Quête** : Au plus profond de la Forge, une balise de l’Ascendance a été activée. Son signal mystérieux a mis en échec toute tentative de traduction. Pourquoi avez-vous juré de rejoindre la source de ce signal ? Quelle autre personne ou faction s’oppose à vous ?
+
+#### Les formes de vie biomécaniques que nous appelons les Vestiges, conçus par des civilisations antédiluviennes pour devenir les armes d’une guerre cataclysmique, ont survécu à la disparition de leurs créateurs.
+Que ce soit à la surface de planètes ravagées ou au plus profond des reliquats éparpillés par les précurseurs dans toute la Forge, les Vestiges gardent toujours férocement d’antiques secrets, tout en se livrant mutuellement des guerres éternelles.
+
+**Accroche de Quête** : Un xéno-archéologue qui étudie les reliquats des précurseurs vient de découvrir une puissante forme de Vestige. Quel est la nature de cet être ? Quelle force vous pousse à en prendre le contrôle ?
+
+ᴥ Avez-vous vécu des confrontations notables avec les reliquats, les artefacts ou les technologies des précurseurs ? Si vous êtes un expert en savoir antique et autres faits occultes, vous pourriez être un CHASSEUR DE LÉGENDES. Si en revanche vous rongez les os dénichés dans ces lieux maudits, vous pourriez être un CHAROGNARD.
