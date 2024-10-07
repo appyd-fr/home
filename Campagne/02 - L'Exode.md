@@ -5,8 +5,7 @@ Les réfugiés ont développé leur propre héritage culturel et transmis des tr
 
 **Accroche de Quête** : Vos rêves sont hantés par les visions d’un vaisseau d’Exode en perdition depuis une avarie. Que voyez-vous en rêve ? Pourquoi ce vaisseau vous appelle-t-il ?
 
-#### Une flotte de vaisseaux disparates — lancés à des vitesses fulgurantes par des moteurs supraluminiques expérimentaux — ont transporté vos ancêtres jusque dans la Forge. Toutefois la technologie qui propulsait ces vaisseaux est réputée avoir été la cause de la
-Déchirure, un morcellement de la réalité qui nous affecte désormais ici.
+#### Une flotte de vaisseaux disparates — lancés à des vitesses fulgurantes par des moteurs supraluminiques expérimentaux — ont transporté vos ancêtres jusque dans la Forge. Toutefois la technologie qui propulsait ces vaisseaux est réputée avoir été la cause de la Déchirure, un morcellement de la réalité qui nous affecte désormais ici.
 Les moteurs expérimentaux utilisés par la Flotte de l’exode ont depuis été interdits, mais le mal est fait. La Déchirure se répand à travers notre réalité comme des fissures se formant à la surface d’un étang gelé. Depuis ces lignes de fractures se déversent des réalités encore plus périlleuses que la nôtre. Avons-nous échappé à un cataclysme uniquement pour en créer un autre par inadvertance ?
 **Accroche de Quête** : Un moteur défaillant a déplacé l’un des vaisseaux de réfugiés dans l’espace mais aussi dans le temps. Des siècles plus tard, les voilà enfin arrivés. De leur point de vue, seules quelques semaines se sont écoulées. Pourquoi se méfie-t-on de ces gens ? Allez-vous les aider ou vous opposer à eux ?
 
