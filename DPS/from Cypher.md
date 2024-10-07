@@ -1,10 +1,16 @@
-Cypher 3 Stats -> DPS 4 Stats
+Tier is a measurement of power, toughness, and ability. Max 6
 
+Cypher 3 Stats -> DPS 4 Stats
 might, speed, intellect --> Solide, Alerte, Avisé, **Tenace**
 Valeur : Pool : raw, inate ability
-Edge : knowing how to use your potential
 Effort : typing in raw ability
-Tier is a measurement of power, toughness, and ability. Max 6
+
+Edge : knowing how to use your potential
+Cypher : Edge / stat --> DSP : edge / Aptitude
+
+
+
+
 
 injured, sickened, attacked, effort : reduces pool
 Resting restores pool
