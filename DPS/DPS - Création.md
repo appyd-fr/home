@@ -1,7 +1,11 @@
-Attributs : potentiel & ressources brutes
-Aptitudes : facilités, orientations 
-Compétences : Seuil de réussite 
+Attributs :
+Potentiel & ressources brutes
+Score et pool - Nb faces
 
-Attributs: Score et pool - Nb faces
-Aptitudes : Score et edge - Nb Dés
+Aptitudes : 
+Facilités, orientations 
+Score et edge - Nb Dés
+
+Compétences : 
+Seuil de réussite 
 
