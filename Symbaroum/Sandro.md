@@ -52,8 +52,17 @@ Armure légère, bâton, dague, 50 thalers (_Privilégié_)
 
 ## XP 
 **Création** : 5 Talents de Niveau Novice (50 XP) + Privilégié (Ambrien)
-**120 XP
-Traits & Fardeaux : +10XP
-Talents : 2*20 (Adepte) + 3*30 (Maître) -> -130XP
+**Fardeaux** : +10XP
+**Gains**: 120 XP
+
+TOTAL : 180XP
+
+**Dépenses**
+|||||
+|--- |--- |---|---|---|
+| |Initié|Adepte|Maître|
+|Talents|
+2*20 (Adepte) + 3*30 (Maître) -> -130XP
 Pouvoirs Mystiques : 2*10 (Initié) + 2*20 (Adepte) -> -60XP
+
 TOTAL : 180XP
