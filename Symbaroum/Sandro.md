@@ -25,9 +25,7 @@
 | ==Don exceptionnel== | **Adepte** | 20XP | Active | Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = [Volonté](/2024-10-28_001.md#Volont%C3%A9). Totalement corrompu = [Volonté](/2024-10-28_001.md#Volont%C3%A9) x2. |
 | ==Théurgie== | **Adepte** | 20XP | Spéciale. | Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire. |
 | ==Ritualiste== | **Maître** | 30XP | Spéciale. | 6 Rituels |
-| ==Vision de l’Ombre== | **Novice** | 10XP | Gratuite. | 1 Action gratuite Test [[Vigilance](/2024-10-28_001.md#Vigilance) ← Discrétion] : Discerner l’Ombre dominante (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire. |
-| Vision de l’Ombre | Adepte | 20 XP | Gratuite. | Toutes les Ombres de la cible, pas leurs forces. _Don exceptionnel_: 1 Corruption temporaire. |
-| Vision de l’Ombre | Maître | 30 XP | Gratuite. | Discerner toutes les Ombres et leurs forces. _Don exceptionnel_: 1 Corruption temporaire. |
+| ==Vision de l’Ombre== | **Maître** | 30XP | Gratuite. | 1 Action gratuite Test [[Vigilance](/2024-10-28_001.md#Vigilance) ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire. |
 
 -   Récupération
 
