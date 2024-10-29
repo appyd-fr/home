@@ -14,8 +14,8 @@ category: documentation
 ## Attributs
 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Agilité | 10  | Astuce | 11  | Discrétion | 9   | Force | 7   |
-| Persuasion | 10  | Précision | 5   | Vigilance | 13  | Volonté | 15  |
+|Agilité|10|Astuce|11|Discrétion|9|Force|7|
+|Persuasion|10|Précision|5|Vigilance|13|Volonté|15|
 
 ## Attributs dérivés
 
