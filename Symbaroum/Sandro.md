@@ -2,6 +2,8 @@
 **Carrière** : Théurge - Inquisiteur  
 **Race** : Humain - Ambrien
 
+## Attributs
+
 |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Agilité | 10  | Astuce | 11  | Discrétion | 9   | Force | 5   |
@@ -49,22 +51,3 @@ Le Talent Érudit représente en outre la capacité du personnage à effectuer d
 
 ## Equipement
 Armure légère, bâton, dague, 50 thalers (_Privilégié_)
-
-## XP 
-**Atout Gratuit**: Privilégié (Ambrien)
-**Création** : 50 XP
-**Fardeaux** : +10XP
-**Gains**: 120 XP
-
-TOTAL : 180XP
-
-**Dépenses**
-
-|     |Novice|Adepte|Maître|
-| --- | --- | --- | --- | 
-||10XP|20XP|30XP|
-|Talents|0|2|3|
-|Pouvoirs Mystiques|2|2|0|
-|TOTAUX|20XP|80XP|90XP|
-|**TOTAL**|||190XP|
- 
