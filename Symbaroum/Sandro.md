@@ -6,8 +6,17 @@
 
 |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Agilité | 10  | Astuce | 11  | Discrétion | 9   | Force | 5   |
-| Persuasion | 10  | Précision | 7   | Vigilance | 13  | Volonté | 15  |
+| Agilité | 10  | Astuce | 11  | Discrétion | 9   | Force | 7   |
+| Persuasion | 10  | Précision | 5   | Vigilance | 13  | Volonté | 15  |
+
+## Attributs dérivés
+
+|     |     |     |     |
+| --- | --- | --- | --- | 
+|Endurance|Résistance à la douleur|Seuil de corruption|Défense|  
+|10|4|15*|10|
+
+* Don exceptionnel **Adepte**
 
 ## Traits & Fardeaux
 
