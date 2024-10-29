@@ -265,4 +265,88 @@ Aujourd’hui, Prios est reconnu comme l’Unique et
 l’Ordonnateur des Lois, et presque tous les Ambriens
 adhèrent à Ses commandements sous la conduite
 des prêtres et des théurges de l’Église du Soleil. Il
-est dit que Prios est partout sous les cieux, et qu’il
+est dit que Prios est partout sous les cieux, et qu’il appartient aux humains de faire fructifier Sa création.
+Malheureusement, les hommes ont pendant
+longtemps négligé ce devoir sacré et Prios a perdu
+de Son pouvoir, tant et si bien qu’Il est aujourd’hui
+mourant. Mais, aux dires des sermons, il existe
+encore un espoir. En travaillant dur, en cultivant
+la terre, en exploitant les ressources des forêts et des
+montagnes et en colonisant les contrées sauvages, les
+humains pourront réparer leurs erreurs. Ce n’est
+qu’à ce prix que Prios recouvrera Sa toute-puissance.
+Bien entendu, Davokar occupe une place centrale
+dans les projets de l’Église du Soleil. Aux yeux du
+clergé, les étendues sauvages qui recouvrent l’ancienne
+Symbaroum sont l’exemple même de ce qui
+résulte lorsque l’homme renonce à ses devoirs envers
+le Dieu-Soleil. Davokar doit être purifiée, son pouvoir
+dompté, et ses ressources exploitées. Voilà pourquoi
+la Curie, le haut conseil de l’Église du Soleil, n’hésite
+pas à envoyer des missionnaires et des explorateurs
+au plus profond de la forêt. Et voilà aussi pourquoi
+un temple a été établi à Karvosti, là où se trouve la
+Grande Assemblée des clans barbares.
+Malgré tout, certains dieux continuent à vivre
+dans l’ombre de Prios, des dieux qui ne sont pas sans
+rappeler ceux vénérés par les clans. À ce sujet, nombreux
+sont les théurges et les érudits à avoir tenté
+de décrire et de cataloguer les divinités et autres
+esprits auxquels les barbares vouent des cultes.
+Jusqu’à présent, aucun n’y est parvenu. Chaque
+clan possède ses propres croyances, et toutes
+sont très différentes les unes des autres. Comme
+indiqué plus haut, certains barbares vénèrent des
+divinités proches de celles ayant été bannies par
+les Ambriens. Ainsi, le dieu serpent Uron, auquel
+les membres du clan Gaoïa vouent un culte, partage
+certains traits avec la Terre-Mère des Ambriens ; le
+loup sanglant Arex, vénéré par le clan Baïaga, est
+clairement assimilable à l’Éclaireur ; et l’araignée
+Oroké, adorée un peu partout en Davokar, n’est pas
+sans rappeler le Pendu. Les barbares pratiquent
+également le culte des ancêtres, et honorent aussi
+bien les lieux qu’ils considèrent comme sacrés que
+certaines bêtes, voire certaines monstruosités telles
+que la Fille du Sang du clan Saar-Kahn. Les cérémonies
+religieuses sont également très différentes
+d’un clan à un autre, et vont des prières collectives
+aux rituels sacrificiels, comme lorsque les membres
+du clan Énoaï se laissent mordre par des araignées
+venimeuses dans le but de se rapprocher d’Oroké.
+De leur côté, les représentants du Peuple Ancien
+semblent avoir une approche plus animiste de la
+spiritualité. Plutôt que d’honorer des dieux, ils se
+contentent d’exprimer leur gratitude aux esprits qui,
+selon eux, habitent tous les éléments de la nature.
+Ils remercient ainsi le courant de les laisser traverser
+la rivière sans danger, le noisetier de les laisser
+récolter ses fruits, ou le cerf de se laisser piéger. On
+raconte qu’Élori, l’émissaire des elfes à Yndaros,
+fut interrogé sur ses croyances lors d’une visite à la
+cour de Korinthia. Les mots exacts qu’il employa ne
+sont évidemment connus que de ceux qui étaient
+présents, mais à en croire les rumeurs, il répondit
+par une insulte : « Il est vain de croire que le monde se
+soucie d’être adoré ou qu’il écoute les prières ; c’est une
+présomption qui reflète le propre désir de l’homme
+d’être adoré et d’imposer sa volonté au monde. »
+Pratiques culturelles
+Les Ambriens, tout comme les barbares accordent
+une grande importance aux traditions orales. À
+leurs yeux, un orateur de talent est pour ainsi dire
+l’égal d’un grand guerrier, et le Haut Chef aime
+s’entourer d’un ou deux conteurs dans sa forteresse
+de Karvosti. Ces chroniqueurs sont généralement
+choisis lors d’un concours annuel qui se tient pendant
+les jours de marché, aux environs de l’équinoxe
+d’automne. Ils ont pour responsabilité de rappeler
+et de raconter les événements historiques.
+Outre l’art du conte, les barbares apprécient
+tout particulièrement les jeux d’armes ou les activités
+permettant de rendre hommage à la nature.
+Il serait exagéré de dire qu’ils vouent un culte à
+Davokar, mais sous la conduite des sorcières,
+tous les barbares prennent soin de se montrer
+respectueux envers la nature qui les nourrit et
+leur enseigne l’humilité. Le rôle des conteurs est
