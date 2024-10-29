@@ -56,3 +56,31 @@ mieux pour se tourner vers l’avenir. Et ils
 sont déterminés à devenir puissants au
 point qu’aucun ennemi n’osera plus les
 attaquer.
+
+Exemples de tabous
+du clan Baïaga
+N’approchez pas des
+pentes de l’Arête de la
+Crypte : Grabando y
+sommeille et ne doit
+pas être dérangé.
+N’évoquez pas la
+Marcheuse des Eaux
+Blanches par son nom :
+elle entendra votre
+appel et y répondra
+avec force.
+Ne mangez jamais les
+fruits printaniers de la
+Cloche Écarlate : son
+nectar est empoisonné
+et ses graines corrompues.
+Ne buvez jamais de
+l’eau arc-en-ciel : cela
+exacerbe la soif et la
+rend dangereuse.
+N’écoutez pas les
+chants de ceux qui se
+dérobent à vos yeux :
+ce sont des avertissements,
+non des appels.
