@@ -19,28 +19,27 @@ category: documentation
 
 ## Attributs dérivés
 
-| --- | --- | --- | --- |
-|Endurance|Résistance à la douleur|Seuil de corruption|Défense|  
-|10|4|15*|10|
+| Endurance | Résistance à la douleur | Seuil de corruption | Défense |     |
+| --------- | ----------------------- | ------------------- | ------- | --- |
+| 10        | 4                       | 15*                 | 10      |     |
 
 \* Don exceptionnel **Adepte**
 
 ## Traits & Fardeaux
 
-| --- | --- | --- |
-| Privilégié|1-113|Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
-| Code d’honneur|2-56|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
-| Cauchemars|2-56|Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle. |
-
+| Privilégié _A113_    | Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Code d’honneur _B56_ | Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir)                                    |
+| Cauchemars _B56_     | Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle.                                                             |
+ 
 ## Talents
 
-| | | | |
-| --- | --- | --- | --- |
-|Don exceptionnel|GdJ64|**Adepte**|Active|Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = **Volonté**. Totalement corrompu = **Volonté**x2.|
-|Théurgie|LdB126|**Adepte**|Spéciale|Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
-|Ritualiste|LdB125|**Maître**|Spéciale|6 Rituels|
-|Vision de l’Ombre|LdB127|**Maître**|Gratuite|1 Action gratuite Test **Vigilance** ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.|
-|Érudit|LdB119|**Maître**|Gratuite|Connaissances des cultures, histoire, langues. Spécialiste reconnu de l’interprétation des parchemins, l'Histoire de Symbaroum n'a plus de secret pour le Maître.  Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications. Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs. Formuler des phrases simples en langues humaines, elfes, trolls, disparues. Test **Astuce**: activer des pouvoirs mystiques à partir d’un parchemin, lire un texte écrit dans une langue ancienne et disparue, conversation soutenue.|
+| Don exceptionnel _B64_ *Adepte* Active     | Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = **Volonté**. Totalement corrompu = **Volonté**x2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Théurgie _A126_ *Adepte* Spéciale          | Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Ritualiste _125_ *Maître* Spéciale         | 6 Rituels                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Vision de l’Ombre _A127_ *Maître* Gratuite | 1 Action gratuite Test **Vigilance** ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Érudit _A119_ *Maître* Gratuite            | Connaissances des cultures, histoire, langues. Spécialiste reconnu de l’interprétation des parchemins, l'Histoire de Symbaroum n'a plus de secret pour le Maître.  Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications. Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs. Formuler des phrases simples en langues humaines, elfes, trolls, disparues. Test **Astuce**: activer des pouvoirs mystiques à partir d’un parchemin, lire un texte écrit dans une langue ancienne et disparue, conversation soutenue. |
 
 ## Pouvoirs mystiques
 
