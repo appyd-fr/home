@@ -20,6 +20,7 @@ category: documentation
 
 ## Attributs dérivés
 
+| | | |
 | --- | --- | --- | --- | 
 |Endurance|Résistance à la douleur|Seuil de corruption|Défense|  
 |10|4|15*|10|
