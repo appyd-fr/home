@@ -27,19 +27,19 @@ category: documentation
 
 ## Traits & Fardeaux
 
-| --- | --- |
-| Privilégié|Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
-| Code d’honneur|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
-| Cauchemars|Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle. |
+| --- | --- | --- |
+| Privilégié||Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
+| Code d’honneur|GdJ56|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
+| Cauchemars|GdJ56|Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle. |
 
 ## Talents
 
-| --- | --- | --- | --- |
-|Don exceptionnel| **Adepte**|Active|Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = **Volonté**. Totalement corrompu = **Volonté**x2.|
-|Théurgie|**Adepte**|Spéciale|Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
-|Ritualiste|**Maître**|Spéciale|6 Rituels|
-|Vision de l’Ombre|**Maître**|Gratuite|1 Action gratuite Test **Vigilance** ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.|
-|Érudit|**Maître**|Gratuite|Connaissances des cultures, histoire, langues. Spécialiste reconnu de l’interprétation des parchemins, l'Histoire de Symbaroum n'a plus de secret pour le Maître.  Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications. Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs. Formuler des phrases simples en langues humaines, elfes, trolls, disparues. Test **Astuce**: activer des pouvoirs mystiques à partir d’un parchemin, lire un texte écrit dans une langue ancienne et disparue, conversation soutenue.|
+| --- | --- | --- | --- | --- |
+|Don exceptionnel|GdJ64|**Adepte**|Active|Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = **Volonté**. Totalement corrompu = **Volonté**x2.|
+|Théurgie||**Adepte**|Spéciale|Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
+|Ritualiste||**Maître**|Spéciale|6 Rituels|
+|Vision de l’Ombre||**Maître**|Gratuite|1 Action gratuite Test **Vigilance** ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.|
+|Érudit||**Maître**|Gratuite|Connaissances des cultures, histoire, langues. Spécialiste reconnu de l’interprétation des parchemins, l'Histoire de Symbaroum n'a plus de secret pour le Maître.  Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications. Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs. Formuler des phrases simples en langues humaines, elfes, trolls, disparues. Test **Astuce**: activer des pouvoirs mystiques à partir d’un parchemin, lire un texte écrit dans une langue ancienne et disparue, conversation soutenue.|
 
 ## Pouvoirs mystiques
 
