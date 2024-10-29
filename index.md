@@ -5,4 +5,4 @@ meta: technical
 category: documentation
 ---
 site appyd.fr
-[lien](</symbaroum/sandro.md>)
+[Sandro](</Symbaroum/sandro.md>)
