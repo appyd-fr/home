@@ -59,4 +59,5 @@ category: documentation
 |Rite de sanctification|Lieu sanctifié bloque rituels. Abominations : nausées + 1D4 dégâts/tour ignorant l’Armure. Marquées par la Corruption : profond malaise à l’approche.|
 
 ## Equipement
-Armure légère, bâton, dague, 50 thalers (_Privilégié_)
+Armure dissimulée(1D4, légère, dissimulée, pratique), bâton de combat (1D6 Contondant, arme longue), dague (1D6, équilibrée), 50 thalers (_Privilégié_)
+Instruments de Cartographie 
