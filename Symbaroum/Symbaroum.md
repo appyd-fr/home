@@ -183,3 +183,86 @@ de chaque groupe, une telle classification
 paraîtrait maladroite. En effet, il leur semblerait
 saugrenu d’être mis dans le même panier que des
 individus plus ou moins étranges à leurs yeux.
+Toutefois, cela ne change rien au fait qu’il existe
+des caractéristiques communes au sein de chaque
+groupe, justifiant ainsi de tels regroupements.
+Les Ambriens sont tous originaires du royaume disparu
+d’Albérétor, au sud des Titans. Ils se caractérisent
+par un sens profond de la spiritualité, un goût prononcé
+pour le savoir et l’artisanat, ainsi qu’un talent certain sur
+les champs de bataille. Si la plupart d’entre eux ont été
+durement marqués par la Grande Guerre, cet épisode
+sombre de leur histoire les a également rendus plus
+forts. Pour survivre, ils ont dû apprendre à faire preuve
+de discipline et d’organisation, que ce soit d’un point de
+vue militaire, administratif ou économique. En d’autres
+termes, la guerre a fait d’eux un peuple civilisé.
+Par ailleurs, l’ambition est un trait de caractère
+particulièrement répandu chez les Ambriens. Ils
+sont toujours prompts à conquérir de nouveaux territoires
+et à s’approprier de nouveaux biens, et tâchent
+de faire de leur mieux en toutes circonstances. À
+leurs yeux, la nature est une ressource à exploiter,
+et les richesses qu’elle renferme autant de moyens de
+s’assurer une vie confortable, ou du moins tolérable.
+Pour cette raison, de nombreux Ambriens n’hésitent
+pas à risquer leur vie en s’aventurant en Davokar, à
+la recherche de trésors ou de savoirs oubliés.
+En ce qui concerne les clans barbares, ces derniers
+vivent en meilleure harmonie depuis l’arrivée de la Reine et de ses sujets. Si chaque clan possède ses
+propres us et coutumes, ils ont également beaucoup
+en commun, et il est d’ailleurs couramment admis
+que tous les barbares sont les descendants du peuple
+de Symbaroum, la civilisation qui dominait la région
+il y a de cela un millénaire. Celles qui symbolisent le
+mieux ces similitudes sont sans doute les sorcières
+qui font office de guides spirituels et conseillers
+auprès des différents clans. Sous leur conduite, les
+barbares ont pleinement conscience de dépendre de
+la nature dans laquelle ils vivent pour leur sécurité
+et leur survie. Et ils ont tous été témoins de ce qui
+se produit lorsque quelqu’un enfreint les interdits
+édictés par celle qui dirige toutes les sorcières depuis
+Karvosti, la Huldra Yéléta.
+Pour finir viennent ceux que l’on désigne sous
+le nom de Peuples Anciens, c’est-à-dire les elfes,
+les nains, les gobelins, les trolls, les ogres ou
+encore les changelins. En majorité, ces créatures
+se considèrent comme les enfants de la nature et
+traitent celle-ci avec respect. Il y a bien sûr quelques
+exceptions, à commencer par les gobelins ayant pris
+goût au mode de vie ambrien et les familles naines
+installées à Yndaros. Mais de manière générale, les
+représentants des Peuples Anciens et les Ambriens
+ont du mal à s’entendre lorsqu’il est question de
+Davokar.
+Ces discordances, pour ne pas dire cette animosité,
+sont particulièrement vives entre les sujets
+de Korinthia et les elfes. Se référant à un antique
+traité supposément signé par les hommes à l’époque
+de la chute de Symbaroum, les gardiens de la forêt
+exigent en effet des Ambriens qu’ils se tiennent à
+l’écart de Davokar. Selon eux, une alliance appelée
+le Pacte de Fer fut même forgée, leur donnant le
+droit de traquer et de tuer tous ceux qui osent violer
+ce traité — une allégation dont Korinthia et ses
+chevaliers se moquent royalement, et qu’aucun
+chasseur de trésors ne prend réellement au sérieux.
+Spiritualité
+La Grande Guerre eut de nombreuses conséquences.
+L’une d’elles, et non des moindres, fut l’avènement
+de Prios au statut de Dieu unique, alors qu’il n’était
+jusqu’alors considéré que comme une divinité parmi
+d’autres. Là où les Sombres Seigneurs représentaient
+les ténèbres et la mort, Prios devint le symbole de la
+lumière d’Albérétor et du pouvoir créateur du soleil.
+Jécibégaï, le Premier Père actuel de l’Église du Soleil, a
+depuis exprimé cela en ces termes : « Dans les abysses,
+au coeur même des ténèbres, apparut l’étincelle qui
+donna l’espoir au monde ; l’étincelle qui, par nos soins,
+fera flamboyer Prios comme jamais auparavant. »
+Aujourd’hui, Prios est reconnu comme l’Unique et
+l’Ordonnateur des Lois, et presque tous les Ambriens
+adhèrent à Ses commandements sous la conduite
+des prêtres et des théurges de l’Église du Soleil. Il
+est dit que Prios est partout sous les cieux, et qu’il
