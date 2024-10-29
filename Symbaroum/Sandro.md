@@ -35,7 +35,7 @@ Le Talent Érudit représente en outre la capacité du personnage à effectuer d
 |Anathème|**Novice**|Active|Test **Volonté** ← Volonté], dissiper les effets d’un pouvoir. N’affecte pas les rituels.|
 |Imperceptible|**Adepte**|Active|Test **Volonté**, Disparaître de la vue de toutes les créatures jusqu’à attaque / subir dégâts.|
 |Verre ardent de Prios|**Adepte**|Active|Test **Volonté**, tous ennemis, 1D8 points de dégâts, abomination / mort-vivant: 1D12|
-|Imposition des mains|**Initié**|Active|Soi ou 1 Cible; +1D6 points d’Endurance.|
+|Imposition des mains|**Novice**|Active|Soi ou 1 Cible; +1D6 points d’Endurance.|
 
 ## Rituels
 
@@ -58,11 +58,12 @@ Armure légère, bâton, dague, 50 thalers (_Privilégié_)
 TOTAL : 180XP
 
 **Dépenses**
-|||||
-|--- |--- |---|---|---|
-| |Initié|Adepte|Maître|
-|Talents|
-2*20 (Adepte) + 3*30 (Maître) -> -130XP
-Pouvoirs Mystiques : 2*10 (Initié) + 2*20 (Adepte) -> -60XP
 
+|     |Novice|Adepte|Maître|
+| --- | --- | --- | --- | 
+||10XP|20XP|30XP|
+|Talents|0|2|3|
+|Pouvoirs Mystiques|2|2|0|
+|TOTAUX|
+ 
 TOTAL : 180XP
