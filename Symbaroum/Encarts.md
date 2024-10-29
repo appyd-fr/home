@@ -84,3 +84,27 @@ chants de ceux qui se
 dérobent à vos yeux :
 ce sont des avertissements,
 non des appels.
+
+La Prophétie de Sarkomal
+Selon certains échos circulant à Yndaros et à Fort Chardon, l’Église du
+Soleil aurait découvert une ancienne prophétie dans les ruines d’un temple
+situé à quelques jours de marche à l’est de Karvosti. Bien que le Premier
+Père Jécibégaï ait fermement nié être au courant d’une telle trouvaille, cela
+n’a pas empêché la rumeur de se répandre, bien au contraire. Il n’aura d’ailleurs
+pas fallu attendre longtemps pour que différentes versions du texte
+fassent leur apparition, toutes annonçant la domination à venir de l’Ambria
+sur les terres de l’antique Symbaroum et l’ascension de la Reine Korinthia
+sur le trône de l’empire disparu.
+Toutefois, si la base est identique, les détails diffèrent grandement
+d’une version à une autre. Ainsi, aucune ne s’accorde avec les autres sur
+quand et comment cela se produira, ni même sur la question de savoir
+si cela sera bénéfique aux Ambriens. Il n’existe en réalité qu’une seule
+strophe qui soit commune à toutes les versions, et qui, selon la rumeur,
+serait issue du texte détenu par la Curie :
+« ... là où le jour et la nuit n’ont de sens, où l’obscurité miroite et où la
+lumière se rassemble dans les ombres, se trouve le trône sur lequel de
+nouveau siégera une maîtresse, une régente, une égale des dieux... » Néanmoins,
+personne n’a été jusqu’à présent en mesure de prouver l’authenticité
+de ce passage, ni même l’existence de la prophétie. Et même si cela était
+le cas, il existerait de toute façon bien trop de traductions et d’interprétations
+possibles pour affirmer quoi que ce soit.
