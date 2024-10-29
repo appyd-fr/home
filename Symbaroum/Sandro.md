@@ -34,12 +34,7 @@
 |Théurgie|**Adepte**|Spéciale|Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
 |Ritualiste|**Maître**|Spéciale|6 Rituels|
 |Vision de l’Ombre|**Maître**|Gratuite|1 Action gratuite Test **Vigilance** ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.|
-|Érudit|**Maître**|Gratuite|Test **Astuce**: activer des pouvoirs mystiques directement à partir d’un parchemin. L’histoire de Symbaroum n’a plus de secrets pour le Maître : la réussite d’un test d’Astuce est nécessaire afin que le personnage puisse lire un texte écrit dans une langue ancienne et disparue. Formuler des phrases simples dans l’une de ces langues disparues ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation.|
-
-Spécialiste reconnu de l’interprétation des parchemins. 
-Connaissances des cultures, histoire, langues.
-Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications.  
-Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs.
+|Érudit|**Maître**|Gratuite|Connaissances des cultures, histoire, langues. Spécialiste reconnu de l’interprétation des parchemins, l'Histoire de Symbaroum n'a plus de secret pour le Maître.  Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications. Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs. Formuler des phrases simples en langues humaines, elfes, trolls, disparues. Test **Astuce**: activer des pouvoirs mystiques à partir d’un parchemin, lire un texte écrit dans une langue ancienne et disparue, conversation soutenue.|
 
 ## Pouvoirs mystiques
 
