@@ -13,15 +13,18 @@ category: documentation
 
 ## Attributs
 
-| Agilité    | 10  | Astuce    | 11  | Discrétion | 9   | Force   | 7   |
-| ---------- | --- | --------- | --- | ---------- | --- | ------- | --- |
-| Persuasion | 10  | Précision | 5   | Vigilance  | 13  | Volonté | 15  |
+|            |     |           |     |
+| ---------- | --- | --------- | --- |
+| Agilité    | 10  | Astuce    | 11  |
+| Discrétion | 9   | Force     | 7   |
+| Persuasion | 10  | Précision | 5   |
+| Vigilance  | 13  | Volonté   | 15  |
 
 ## Attributs dérivés
 
-| Endurance | Résistance à la douleur | Seuil de corruption | Défense |     |
-| --------- | ----------------------- | ------------------- | ------- | --- |
-| 10        | 4                       | 15*                 | 10      |     |
+| Endurance | Résistance à la douleur | Seuil de corruption | Défense |
+| --------- | ----------------------- | ------------------- | ------- |
+| 10        | 4                       | 15*                 | 10      |
 
 \* Don exceptionnel **Adepte**
 
@@ -54,13 +57,13 @@ category: documentation
 
 ## Rituels
 
-| | | |
-| --- | --- | --- |
-|Fumée révélatrice & Regard perçant|LdB146 & GdJ93|Test avec Avantage **Astuce** + encens: Dévoiler personnes / créatures Corrompues (distingue Touchés par la Corruption, Marqués par la Corruption ou Totalement corrompus). Test **Astuce**, voit au travers du Rituel Échange d’ombre.|
-|Exorcisme|LdB146|Bannir un esprit ayant pris possession d’une créature ou d’une personne. 3 tentatives Test **Volonté** ← Volonté]. 3 échecs : l’esprit prend possession de l'exorciste.|
-|Chasse à l’hérétique|LdB144|Test **Volonté**, suivre la trace d’une abomination ou d’une créature contaminée qu’il a rencontrée. Le pistage est impeccable jusqu’à ce que la créature corrompue traverse une étendue d’eau — si cela se produit, le rituel doit être accompli de nouveau sur la rive opposée du cours d’eau. 1 tentative / jour. Plus difficile de pister une créature corrompue au milieu de colonies largement peuplées, ainsi qu’en Davokar, ce qui inflige au Mystique une deuxième chance de rater le test.|
-|Confession forcée|LdB144|Contraint une victime à répondre honnêtement par oui ou par non à une série de questions . Chaque question : test **Volonté** ← Volonté], Rituel interrompu au 1er échec.|
-|Rite de sanctification|LdB149|Lieu sanctifié bloque rituels. Abominations : nausées + 1D4 dégâts/tour ignorant l’Armure. Marquées par la Corruption : profond malaise à l’approche.|
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Fumée révélatrice _A146_ & Regard perçant _B93_ | Test avec Avantage **Astuce** + encens: Dévoiler personnes / créatures Corrompues (distingue Touchés par la Corruption, Marqués par la Corruption ou Totalement corrompus). Test **Astuce**, voit au travers du Rituel Échange d’ombre.                                                                                                                                                                                                                                                              |
+| Exorcisme _A146_                                | Bannir un esprit ayant pris possession d’une créature ou d’une personne. 3 tentatives Test **Volonté** ← Volonté]. 3 échecs : l’esprit prend possession de l'exorciste.                                                                                                                                                                                                                                                                                                                              |
+| Chasse à l’hérétique _A144_                     | Test **Volonté**, suivre la trace d’une abomination ou d’une créature contaminée qu’il a rencontrée. Le pistage est impeccable jusqu’à ce que la créature corrompue traverse une étendue d’eau — si cela se produit, le rituel doit être accompli de nouveau sur la rive opposée du cours d’eau. 1 tentative / jour. Plus difficile de pister une créature corrompue au milieu de colonies largement peuplées, ainsi qu’en Davokar, ce qui inflige au Mystique une deuxième chance de rater le test. |
+| Confession forcée _A144_                        | Contraint une victime à répondre honnêtement par oui ou par non à une série de questions . Chaque question : test **Volonté** ← Volonté], Rituel interrompu au 1er échec.                                                                                                                                                                                                                                                                                                                            |
+| Rite de sanctification _A149_                   | Lieu sanctifié bloque rituels. Abominations : nausées + 1D4 dégâts/tour ignorant l’Armure. Marquées par la Corruption : profond malaise à l’approche.                                                                                                                                                                                                                                                                                                                                                |
 
 ## Equipement
 Armure dissimulée(1D4, légère, dissimulée, pratique), bâton de combat (1D6 Contondant, arme longue), dague (1D6, équilibrée), 50 thalers (_Privilégié_)
