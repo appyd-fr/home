@@ -51,7 +51,8 @@ Le Talent Érudit représente en outre la capacité du personnage à effectuer d
 Armure légère, bâton, dague, 50 thalers (_Privilégié_)
 
 ## XP 
-**Création** : 5 Talents de Niveau Novice (50 XP) + Privilégié (Ambrien)
+**Atout Gratuit**: Privilégié (Ambrien)
+**Création** : 50 XP
 **Fardeaux** : +10XP
 **Gains**: 120 XP
 
@@ -64,6 +65,6 @@ TOTAL : 180XP
 ||10XP|20XP|30XP|
 |Talents|0|2|3|
 |Pouvoirs Mystiques|2|2|0|
-|TOTAUX|
+|TOTAUX|20XP|80XP|90XP|
+|**TOTAL**|||190XP|
  
-TOTAL : 180XP
