@@ -9,8 +9,8 @@ Lancez six fois 2D et attribuez les scores dans l'ordre que vous souhaitez aux s
 • Statut social (SOC) : La place d'un Voyageur dans la société.
 Chaque caractéristique est assortie d'un modificateur de dé (MD) indiqué dans le tableau suivant.
 
-|score de caractéristique|Modificateur de Dé|
 |---|---|
+|score de caractéristique|Modificateur de Dé|
 |0 |-3|
 |1-2|-2|
 |3-5|-1|
