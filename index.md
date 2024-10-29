@@ -19,7 +19,6 @@ category: documentation
 
 ## Attributs dérivés
 
-| | | | |
 | --- | --- | --- | --- |
 |Endurance|Résistance à la douleur|Seuil de corruption|Défense|  
 |10|4|15*|10|
@@ -28,11 +27,10 @@ category: documentation
 
 ## Traits & Fardeaux
 
-| | | |
 | --- | --- | --- |
-| Privilégié|LdB113|Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
-| Code d’honneur|GdJ56|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
-| Cauchemars|GdJ56|Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle. |
+| Privilégié|1-113|Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
+| Code d’honneur|2-56|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
+| Cauchemars|2-56|Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle. |
 
 ## Talents
 
