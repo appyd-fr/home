@@ -34,10 +34,12 @@
 |Théurgie|**Adepte**|Spéciale|Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
 |Ritualiste|**Maître**|Spéciale|6 Rituels|
 |Vision de l’Ombre|**Maître**|Gratuite|1 Action gratuite Test **Vigilance** ← Discrétion] : Discerner toutes les Ombres et leurs forces (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.|
-|Érudit|**Maître**|Gratuite|Spécialiste reconnu de l’interprétation des parchemins. Test Astuce: activer des pouvoirs mystiques directement à partir d’un parchemin. L’histoire de Symbaroum n’a plus de secrets pour le Maître : la réussite d’un test d’Astuce est nécessaire afin que le personnage puisse lire un texte écrit dans une langue ancienne et disparue. Formuler des phrases simples dans l’une de ces langues disparues ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation.|
+|Érudit|**Maître**|Gratuite|Test **Astuce**: activer des pouvoirs mystiques directement à partir d’un parchemin. L’histoire de Symbaroum n’a plus de secrets pour le Maître : la réussite d’un test d’Astuce est nécessaire afin que le personnage puisse lire un texte écrit dans une langue ancienne et disparue. Formuler des phrases simples dans l’une de ces langues disparues ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation.|
 
-Connaissances des cultures, histoire, langues et trésors. Au fil des siècles, héros, monstres et royaumes se sont succédés et ont laissé derrière eux de puissants objets magiques et de mystérieux écrits. Ce Talent reflète la connaissance de ces objets : un personnage qui en est doté a appris, grâce des études poussées, l’histoire de ces objets, mais également leurs propriétés et applications.  
-Le Talent Érudit représente en outre la capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs, ce qui peut s’avérer fort utile lorsque ce type de situation se produit.
+Spécialiste reconnu de l’interprétation des parchemins. 
+Connaissances des cultures, histoire, langues.
+Connaissances des trésors, objets magiques et mystérieux écrits, de leur histoire, propriétés et applications.  
+Capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs.
 
 ## Pouvoirs mystiques
 
