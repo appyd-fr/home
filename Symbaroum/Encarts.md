@@ -25,3 +25,34 @@ répression. Si la liberté a un prix, celui-ci est de plus en plus considérabl
 à mesure que Korinthia étend sa domination sur la région. Malgré tout, les
 terres sauvages qui bordent l’Ambria continuent d’abriter une vingtaine de
 colonies libres qui refusent de se soumettre à l’autorité de la Reine.
+
+Les Hordes des Ténèbres
+Si deux décennies se sont écoulées depuis
+la défaite des Sombres Seigneurs, les événements
+de la Grande Guerre sont toujours
+présents dans l’esprit des Ambriens et
+continuent d’alimenter les conversations.
+Bien entendu, les habitants du
+royaume préfèrent se remémorer les actes
+héroïques des porteurs de lumière et des
+soldats de Korinthia plutôt que d’évoquer
+certains souvenirs douloureux. Ainsi, les
+défaites sanglantes, les héros tombés
+sous les assauts des morts-vivants, ou les
+guerriers de la Reine forcés de tuer encore
+et encore leurs propres frères et soeurs —
+ramenés à la vie par la noire magie des
+Sombres Seigneurs — sont autant de
+souvenirs généralement refoulés.
+Ceux qui étaient présents se souviennent.
+Les autres inventent des
+histoires pour nourrir leurs fantasmes.
+Mais de manière générale, les Ambriens
+ne parlent jamais des horreurs de la
+Grande Guerre, sauf lorsque l’alcool ou
+les cauchemars les font divaguer. Quelles
+que soient les difficultés, ils font de leur
+mieux pour se tourner vers l’avenir. Et ils
+sont déterminés à devenir puissants au
+point qu’aucun ennemi n’osera plus les
+attaquer.
