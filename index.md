@@ -6,6 +6,6 @@ category: documentation
 ---
 site appyd.fr
 
-[Sandro](<Symbaroum/Sandro.md>)
+[Sandro](<Symbaroum/Sandro>)
 
 Test
