@@ -27,10 +27,10 @@ category: documentation
 
 ## Traits & Fardeaux
 
-| Privilégié _A113_    | Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Code d’honneur _B56_ | Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir)                                    |
-| Cauchemars _B56_     | Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle.                                                             |
+| Privilégié _A113_    | **Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Code d’honneur _B56_ | Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir)                                      |
+| Cauchemars _B56_     | Chaque nuit, test de **Volonté**, échec: aucune guérison naturelle.                                                               |
  
 ## Talents
 
