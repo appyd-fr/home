@@ -16,7 +16,7 @@
 |Endurance|Résistance à la douleur|Seuil de corruption|Défense|  
 |10|4|15*|10|
 
-* Don exceptionnel **Adepte**
+\* Don exceptionnel **Adepte**
 
 ## Traits & Fardeaux
 
