@@ -18,7 +18,7 @@
 | Code d’honneur | _+5XP_ | Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
 | Cauchemars | _+5XP_ | Chaque nuit, test de [Volonté](/2024-10-28_001.md#Volont%C3%A9), échec: aucune guérison naturelle. |
 
-**Talents**
+## Talents
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -45,7 +45,7 @@
 | Adepte | Réactive | 2 tentatives se débarrasser des pouvoirs qui affectent sa volonté ou ses sens. |
 | Maître | Réactive | Victime d’une attaque mentale qui échoue, l’attaquant subit 1D6 dégâts qui ignorent la protection de l’Armure. |
 
-**Pouvoir mystique** (_10XP -> 100XP_)
+## Pouvoirs mystiques
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
@@ -62,7 +62,7 @@
 | Adepte | Active. | Idem toutes les cibles en vue |
 | Maître | Réactive. | Punit tous les ennemis en vue, qui attirent la Corruption. Peut exclure alliés. 1 point de Corruption = 1 dégât physique ignorant l’Armure. |
 
-**Rituels**
+## Rituels
 
 |     |     |
 | --- | --- |
@@ -72,5 +72,5 @@
 | Confession forcée | Contraint une victime à répondre honnêtement par oui ou par non à une série de questions . Chaque question : test [[Volonté](/2024-10-28_001.md#Volont%C3%A9) ← Volonté], Rituel interrompu au 1er échec. |
 | Rite de sanctification | Lieu sanctifié bloque rituels. Abominations : nausées + 1D4 dégâts/tour ignorant l’Armure. Marquées par la Corruption : profond malaise à l’approche. |
 
-Equipement
+## Equipement
 Armure légère, bâton, dague, 50 thalers (_Privilégié_)
