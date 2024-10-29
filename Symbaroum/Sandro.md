@@ -7,7 +7,7 @@
 | Agilité | 10  | Astuce | 11  | Discrétion | 9   | Force | 5   |
 | Persuasion | 10  | Précision | 7   | Vigilance | 13  | Volonté | 15  |
 
-**Traits**
+## Traits & Fardeaux
 
 |     |     |     |
 | --- | --- | --- |
@@ -15,11 +15,6 @@
 | Limier | 5XP | Pister et retrouver les gens : +1 sur Tests [Vigilance](/Symbaroum/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 | Limier | 10XP | Pister et retrouver les gens : +2 sur Tests [Vigilance](/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 | Limier | 15XP | Pister et retrouver les gens : +3 sur Tests [Vigilance](/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
-
-**Fardeaux**
-
-|     |     |     |
-| --- | --- | --- |
 | Code d’honneur | _+5XP_ | Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
 | Cauchemars | _+5XP_ | Chaque nuit, test de [Volonté](/2024-10-28_001.md#Volont%C3%A9), échec: aucune guérison naturelle. |
 
