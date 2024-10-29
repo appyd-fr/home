@@ -12,7 +12,7 @@
 |     |     |     |
 | --- | --- | --- |
 | ==Privilégié== | _0XP_ | Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec Avantage. |
-| Limier | 5XP | Pister et retrouver les gens : +1 sur Tests [Vigilance](<2024-10-28_001.md#Vigilance>) / [Astuce](/2024-10-28_001.md#Astuce). |
+| Limier | 5XP | Pister et retrouver les gens : +1 sur Tests [Vigilance](/Symbaroum/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 | Limier | 10XP | Pister et retrouver les gens : +2 sur Tests [Vigilance](/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 | Limier | 15XP | Pister et retrouver les gens : +3 sur Tests [Vigilance](/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 
