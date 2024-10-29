@@ -14,7 +14,6 @@
 | ==Privilégié== | _0XP_ | Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec Avantage. |
 | Limier | 5XP | Pister et retrouver les gens : +1 sur Tests [Vigilance](/Symbaroum/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 | Limier | 10XP | Pister et retrouver les gens : +2 sur Tests [Vigilance](/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
-| Limier | 15XP | Pister et retrouver les gens : +3 sur Tests [Vigilance](/2024-10-28_001.md#Vigilance) / [Astuce](/2024-10-28_001.md#Astuce). |
 | Code d’honneur | _+5XP_ | Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
 | Cauchemars | _+5XP_ | Chaque nuit, test de [Volonté](/2024-10-28_001.md#Volont%C3%A9), échec: aucune guérison naturelle. |
 
@@ -30,21 +29,12 @@
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 |Récupération| **Novice** | 10XP|Active. | Test [Volonté](/2024-10-28_001.md#Volont%C3%A9): +1D4 Endurance. Max: 1 réussite / jour. |
-|Récupération| Adepte |20XP| Active. | +1D6 Endurance |
-|Récupération| Maître |30XP| Active. | +1D8 Endurance |
 |Inébranlable| **Novice**|10XP | Réactive | Résister effets physiques: 2 tentatives Force/[Volonté](/2024-10-28_001.md#Volont%C3%A9) |
-|Inébranlable| Adepte |20XP| Réactive | 2 tentatives se débarrasser des pouvoirs qui affectent sa volonté ou ses sens. |
-|Inébranlable| Maître |30XP| Réactive | Victime d’une attaque mentale qui échoue, l’attaquant subit 1D6 dégâts qui ignorent la protection de l’Armure. |
-|Érudit|Novice | 10XP|Gratuite. | Test Astuce: deviner les propriétés d’un objet magique spécifique, mais pas le moyen de l’activer, traduire un texte ou comprendre ce qui lui est dit dans une autre langue humaine, vraie conversation. |
-|Érudit| Adepte |20XP| Gratuite. | Test Astuce: lire et comprendre langue elfes et trolls, vraie conversation.|
-|Érudit| Maître |30XP| Gratuite. | Spécialiste reconnu de l’interprétation des parchemins. Test Astuce: activer des pouvoirs mystiques directement à partir d’un parchemin. L’histoire de Symbaroum n’a plus de secrets pour le Maître : la réussite d’un test d’Astuce est nécessaire afin que le personnage puisse lire un texte écrit dans une langue ancienne et disparue. Formuler des phrases simples dans l’une de ces langues disparues ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation. |
+|==Érudit==| **Maître** |30XP| Gratuite. | Spécialiste reconnu de l’interprétation des parchemins. Test Astuce: activer des pouvoirs mystiques directement à partir d’un parchemin. L’histoire de Symbaroum n’a plus de secrets pour le Maître : la réussite d’un test d’Astuce est nécessaire afin que le personnage puisse lire un texte écrit dans une langue ancienne et disparue. Formuler des phrases simples dans l’une de ces langues disparues ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation. |
 
 Connaissances des cultures, histoire, langues et trésors. Au fil des siècles, héros, monstres et royaumes se sont succédés et ont laissé derrière eux de puissants objets magiques et de mystérieux écrits. Ce Talent reflète la connaissance de ces objets : un personnage qui en est doté a appris, grâce des études poussées, l’histoire de ces objets, mais également leurs propriétés et applications.  
 Le Talent Érudit représente en outre la capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs, ce qui peut s’avérer fort utile lorsque ce type de situation se produit.
 
-|     |     |     |
-| --- | --- | --- |
-| 
 
 ## Pouvoirs mystiques
 
