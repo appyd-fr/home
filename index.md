@@ -20,8 +20,8 @@ category: documentation
 
 ## Attributs dérivés
 
-| | | |
-| --- | --- | --- | --- | 
+| | | | |
+| --- | --- | --- | --- |
 |Endurance|Résistance à la douleur|Seuil de corruption|Défense|  
 |10|4|15*|10|
 
@@ -29,6 +29,7 @@ category: documentation
 
 ## Traits & Fardeaux
 
+| | | |
 | --- | --- | --- |
 | Privilégié|LdB113|Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec **Avantage**. |
 | Code d’honneur|GdJ56|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir) |
@@ -36,7 +37,8 @@ category: documentation
 
 ## Talents
 
-| --- | --- | --- | --- | --- |
+| | | | |
+| --- | --- | --- | --- |
 |Don exceptionnel|GdJ64|**Adepte**|Active|Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = **Volonté**. Totalement corrompu = **Volonté**x2.|
 |Théurgie|LdB126|**Adepte**|Spéciale|Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
 |Ritualiste|LdB125|**Maître**|Spéciale|6 Rituels|
@@ -45,6 +47,7 @@ category: documentation
 
 ## Pouvoirs mystiques
 
+| | | | | |
 | --- | --- | --- | --- | --- |
 |Anathème|LdB134|**Novice**|Active|Test **Volonté** ← Volonté], dissiper les effets d’un pouvoir. N’affecte pas les rituels.|
 |Imperceptible|LdB137|**Adepte**|Active|Test **Volonté**, Disparaître de la vue de toutes les créatures jusqu’à attaque / subir dégâts.|
@@ -53,6 +56,7 @@ category: documentation
 
 ## Rituels
 
+| | | |
 | --- | --- | --- |
 |Fumée révélatrice & Regard perçant|LdB146 & GdJ93|Test avec Avantage **Astuce** + encens: Dévoiler personnes / créatures Corrompues (distingue Touchés par la Corruption, Marqués par la Corruption ou Totalement corrompus). Test **Astuce**, voit au travers du Rituel Échange d’ombre.|
 |Exorcisme|LdB146|Bannir un esprit ayant pris possession d’une créature ou d’une personne. 3 tentatives Test **Volonté** ← Volonté]. 3 échecs : l’esprit prend possession de l'exorciste.|
