@@ -7,9 +7,9 @@ category: documentation
 
 # Sandro
 
-| | |
-| --- | --- | ---|
-|![image](.attachments/0814016f77969a20c70c64f27bf5a813f42de2cf.jpeg) |Issu d’une famille noble, né avec une cuillère en argent dans la bouche, il était appelé à prendre la tête du domaine familial et à hériter des titres de son père. A la surprise de sa famille, il décide de se vouer à l’Eglise de Prios au lieu de se consacrer à la gestion du domaine familial et à la guerre.|
+|                                                                      |                                                                                                                                                                                                                                                                                                                     |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![image](.attachments/0814016f77969a20c70c64f27bf5a813f42de2cf.jpeg) | Issu d’une famille noble, né avec une cuillère en argent dans la bouche, il était appelé à prendre la tête du domaine familial et à hériter des titres de son père. A la surprise de sa famille, il décide de se vouer à l’Eglise de Prios au lieu de se consacrer à la gestion du domaine familial et à la guerre. |
 
 Pourquoi choisir Prios plutôt qu’une vie de seigneur ?
 
