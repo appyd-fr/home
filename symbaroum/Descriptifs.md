@@ -1,279 +1,20 @@
-[Attributs](#Attributs)
-….[Agilité](#Agilité)
-….[Astuce](#Astuce)
-….[Discrétion](#Discrétion)
-….[Force](#Force)
-[Races](#Races)
-[Archétypes](#Archétypes)
-[Traits](#Traits)
-[Talents](#Talents)
-[Traditions Mystiques](#traditions-mystiques)
-[Pouvoirs Mystiques](#Pouvoirs-Mystiques)
-
-Attributs : 80 / 5, 7, 9, 10, 10, 11, 13 et 15
-
-(arrondis au supérieur)
-Endurance = Force [jamais inférieure à 10]
-Résistance à la douleur = Force / 2 
-Seuil de corruption = Volonté / 2 
-Défense = [Agilité – Encombrement de l’armure]
-1 Corruption permanente / pouvoir - rituel
-
-5 Talents de Niveau Novice (50 XP)
-Fardeau : +5XP *2 = 10XP
-120 XP
--> 180 XP
-
-Atout : 5XP 
-Novice : 10 points 
-Adepte : 20 points 
-Maitre : 30 points 
-
-**Sandro**
-Archétype : Mystique
-Carrière : Théurge - Inquisiteur 
-Race : Humain - Ambrien
-
-|||||||||
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-|Agilité |10|Astuce|11|Discrétion|9|Force |5|
-|Persuasion|10|Précision |7|Vigilance|13|Volonté|15|
-
-Armure légère, bâton, dague, 50 thalers (_Privilégié_) 
-
-**Traits** 
-
-| | | |
-| --- | --- | --- |
-|==Privilégié== |_0XP_|Situation sociale au sein de sa société : Pas de lancer de dés sauf pour action discutable/impossible, Tests avec Avantage. |
-|Limier |5XP|Pister et retrouver les gens : +1 sur Tests [Vigilance](#Vigilance) / [Astuce](#Astuce).|
-|Limier |10XP|Pister et retrouver les gens : +2 sur Tests [Vigilance](#Vigilance) / [Astuce](#Astuce).|
-|Limier |15XP|Pister et retrouver les gens : +3 sur Tests [Vigilance](#Vigilance) / [Astuce](#Astuce).|
-
-**Fardeaux**
-
-| | | |
-| --- | --- | --- |
-|Code d’honneur |_+5XP_|Code d’honneur très strict (peut se révéler être une gêne lors d’un combat, ne peut le fuir)|
-|Cauchemars |_+5XP_|Chaque nuit, test de [Volonté](#Volonté), échec: aucune guérison naturelle.|
-
-**Talents** 
-
-| | | | | |
-| --- | ---|---| --- | --- |
-|==Don exceptionnel==| **Adepte** | 20XP| Active | Pouvoir signature: _Vision de l'Ombre_ 1 Corruption temporaire. Seuil de Corruption = [Volonté](#Volonté). Totalement corrompu = [Volonté](#Volonté) x2. |
-|==Théurgie== |**Adepte** | 20XP| Spéciale. | Apprendre pouvoir Novice-Adepte : 0 Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la (Théurgie). Utilisation Pouvoirs & Rituels Théurgiques: 1 Corruption temporaire.|
-|==Ritualiste==| **Maître** |30XP| Spéciale. | 6 Rituels|
-|==Vision de l’Ombre== | **Novice** |10XP| Gratuite. | 1 Action gratuite Test [[Vigilance](#Vigilance) ← Discrétion] : Discerner l’Ombre dominante (créature, lieu, objet). _Don exceptionnel_: 1 Corruption temporaire.|
-|Vision de l’Ombre|  Adepte |20 XP| Gratuite. | Toutes les Ombres de la cible, pas leurs forces. _Don exceptionnel_: 1 Corruption temporaire.|
-|Vision de l’Ombre|  Maître | 30 XP|Gratuite. | Discerner toutes les Ombres et leurs forces. _Don exceptionnel_: 1 Corruption temporaire.|
-
--   Récupération
-
-|     |     |     |
-| --- | --- | --- |
-| **Novice** | Active. | Test [Volonté](#Volonté): +1D4 Endurance. Max: 1 réussite / jour. |
-| Adepte | Active. | +1D6 Endurance |
-| Maître | Active. | +1D8 Endurance |
--   Inébranlable
-
-|     |     |     |
-| --- | --- | --- |
-| **Novice** | Réactive | Résister effets physiques: 2 tentatives Force/[Volonté](#Volonté)|
-| Adepte | Réactive | 2 tentatives se débarrasser des pouvoirs qui affectent sa volonté ou ses sens. |
-| Maître | Réactive | Victime d’une attaque mentale qui échoue, l’attaquant subit 1D6 dégâts qui ignorent la protection de l’Armure. |
-
-**Pouvoir mystique** (_10XP -> 100XP_)
-
-| | | | | |
-| --- | ---|---| --- | --- |
-| ==Anathème==|**Novice**|10XP | Active. | Test [[Volonté](#Volonté) ← Volonté], dissiper les effets d’un pouvoir. N’affecte pas les rituels.|
-|==Imperceptible==|**Adepte**|20XP | Active. | Test [Volonté](#Volonté), Disparaître de la vue de toutes les créatures jusqu’à attaque / subir dégâts. |
-|==Verre ardent de Prios==|**Adepte**|20XP | Active. | Test [Volonté](#Volonté), tous ennemis, 1D8 points de dégâts, abomination / mort-vivant: 1D12|
-|==Imposition des mains==|**Adepte**|20XP | Active. | Soi ou 1 Cible; +1D8 points d’Endurance, met un terme aux hémorragies et aux effets des poisons. |
-
-- Purgatoire
-
-|     |     |     |
-| --- | --- | --- |
-| Novice | Active. | Cible: 1D20 vs Corruption totale. Echec: douleurs aiguës, 1Tour sans action. Créatures profondément corrompues : 1D6 dégâts, ignorant l’Armure. |
-| Adepte | Active. | Idem toutes les cibles en vue|
-| Maître | Réactive. | Punit tous les ennemis en vue, qui attirent la Corruption. Peut exclure alliés. 1 point de Corruption = 1 dégât physique ignorant l’Armure. |
-
-**Rituels**
-
-| | |
-| --- | ---|
-|==Fumée révélatrice== + ==Regard perçant==|Test avec Avantage [Astuce](#Astuce) + encens: Dévoiler personnes / créatures Corrompues (distingue Touchés par la Corruption, Marqués par la Corruption ou Totalement corrompus). Test [Astuce](#Astuce), voit au travers du Rituel Échange d’ombre.|
-|==Exorcisme==|Bannir un esprit ayant pris possession d’une créature ou d’une personne. 3 tentatives Test  [[Volonté](#Volonté) ← Volonté]. 3 échecs : l’esprit prend possession de l'exorciste'.|
-|Chasse à l’hérétique|Test [Volonté](#Volonté), suivre la trace d’une abomination ou d’une créature contaminée qu’il a rencontrée. Le pistage est impeccable jusqu’à ce que la créature corrompue traverse une étendue d’eau — si cela se produit, le rituel doit être accompli de nouveau sur la rive opposée du cours d’eau. 1 tentative / jour. Plus difficile de pister une créature corrompue au milieu de colonies largement peuplées, ainsi qu’en Davokar, ce qui inflige au Mystique une deuxième chance de rater le test. |
-|Confession forcée|Contraint une victime à répondre honnêtement par oui ou par non à une série de questions . Chaque question : test [[Volonté](#Volonté) ← Volonté], Rituel interrompu au 1er échec. |
-|Rite de sanctification|Lieu sanctifié bloque rituels. Abominations : nausées + 1D4 dégâts/tour ignorant l’Armure. Marquées par la Corruption : profond malaise à l’approche.|
-
-# Attributs
-Les Attributs constituent la base même d’un personnage, la structure sur laquelle
-reposent les mécanismes de jeu. En d’autres termes, lorsqu’un personnage tente d’accomplir
-une action importante pour le scénario, le joueur doit effectuer un test. L’action réussit
-si le résultat du lancer de dés est inférieur ou égal à la valeur de l’un des Attributs du
-personnage. Ce chapitre détaille les huit Attributs et leur utilisation dans le cadre de ce jeu.
-
-Les Attributs permettent de déterminer à quel point un personnage est préparé à surmonter les différentes épreuves qui se présenteront à lui dans l’univers du jeu. La valeur d’un Attribut tel que Force ou Agilité chez un personnage indique le genre de
-vie qu’il ou elle a mené dans son enfance. Les valeurs des Attributs représentent, par conséquent, une base relativement stable qui ne connaîtra pas de modifications drastiques, mais à partir de laquelle le personnage se développera et s’affinera.
-
-## Agilité
-L’Agilité représente les réflexes d’un personnage, son équilibre, sa souplesse et la vitesse à laquelle il ou elle se déplace. Cet Attribut détermine l’initiative lors d’un combat, et est utilisé pour éviter de se blesser, effectuer un saut ou tout type de mouvements acrobatiques du même ordre. L’Agilité est généralement opposée à la Précision d’un adversaire.
-
-## Astuce
-L’Attribut Astuce représente le degré de débrouillardise et les connaissances du personnage, son bon sens tout autant que l’éducation qu’il a reçue. Les tests d’Astuce sont généralement utilisés lorsque le personnage tente de se remémorer des faits, de
-résoudre un problème de logique ou une énigme, ou lors de recherches dans une bibliothèque. Ces tests se font habituellement en opposition à un niveau de Difficulté fixé par le Meneur de Jeu.
-
-## Discrétion
-La valeur de l’Attribut Discrétion illustre l’aptitude et le degré d’apprentissage d’un personnage dans l’art de se déplacer silencieusement, d’être furtif, ainsi que sa souplesse. Cet Attribut peut être utilisé pour éviter d’être repéré, dissimuler ou faire circuler des marchandises de contrebande, suivre quelqu’un, ou bien voler un objet dans la poche de son propriétaire. Les tests de Discrétion s’effectuent généralement en opposition à la Vigilance d’un ennemi.
-
-## Force
-La Force reflète l’aptitude du personnage à faire usage de sa puissance physique dans le but, par exemple, de soulever une charge importante ou d’enfoncer une porte. Cet Attribut reflète également la capacité du personnage à résister à la douleur physique, à l’effet d’un poison ou à une maladie. La Force est, dans la plupart des cas, opposée à un niveau de Difficulté et parfois à la Force de l’adversaire.
-
-## Persuasion
-La Persuasion reflète le talent du personnage à influencer les autres à travers son discours, les modulations de sa voix, son langage corporel et son apparence. Cet Attribut est utilisé lorsqu’un personnage tente de convaincre autrui de faire quelque chose (ou, au contraire, de l’en dissuader), que ce soit verbalement, à travers des écrits ou même une chanson. La Persuasion s’oppose, la plupart du temps, à la Volonté de l’adversaire.
-
-## Précision
-La coordination oculo-manuelle, la visée et la synchronisation d’un personnage sont toutes représentées par la Précision. Cet Attribut est, par exemple, utilisé pour atteindre la cible désirée avec un coup à mains nues, une arme au corps à corps, un objet lancé ou le
-projectile d’une arme à distance. La Précision s’oppose, dans la plupart des cas, à l’Agilité de l’adversaire.
-
-## Vigilance
-La Vigilance illustre la capacité globale du personnage à être attentif, l’harmonie de ses sens et son aptitude à remarquer des détails dans son environnement. La Vigilance s’oppose généralement à la Discrétion d’un adversaire.
-
-## Volonté
-La Volonté représente la capacité du personnage à résister à l’influence, qu’il s’agisse de pression sociale, de manipulation mentale par la magie ou de Corruption. La Volonté est également étroitement liée à l’usage des pouvoirs mystiques. Cet Attribut s’oppose généralement à la Volonté ou à la Persuasion de l’adversaire. Notez qu’il est fortement déconseillé d’attribuer une valeur très faible à cet Attribut, à cause du risque de Corruption.
-
-## Attributs secondaires
-Les valeurs suivantes sont calculées à partir des Attributs du personnage :
-- Endurance = Force [jamais inférieure à 10]
-- Résistance à la douleur = Force / 2 (arrondie au supérieur)
-- Défense = [Agilité – Encombrement de l’armure]
-- Seuil de Corruption = Volonté / 2 (arrondie au supérieur)
-
-## Signification d’une faible valeur dans un Attribut
-Un personnage doté d’une faible valeur dans un Attribut lors de sa création constitue un excellent point de départ pour déterminer son aspect et sa personnalité. Par exemple, un personnage avec une valeur très faible en Précision peut être borgne ou maladroit, et avoir tendance à se cogner dans tout ce qui l’entoure. Si c’est en Astuce, cela peut à la
-fois refléter une certaine impulsivité et un manque d’éducation ; une Agilité basse peut illustrer l’indécision d’un personnage ou sa boiterie ; et quelqu’un doté d’une Volonté faible pourrait redouter les conflits ou être très superstitieux. Un personnage bruyant et
-désinvolte est probablement doté de peu de Discrétion, mais s’il manque de Vigilance, il pourrait bien se révèler être un rêveur quelque peu étourdi.
-
-# Races
-Il existe d’innombrables créatures étranges en Ambria, et des formes de vie plus étranges encore dans les profondeurs de Davokar.
-Néanmoins, lors de la création d’un personnage en suivant les règles de base, le joueur ne peut choisir que parmi les races décrites dans ce chapitre, dont les représentants sont relativement nombreux et vivent à l’intérieur des villes ou non loin, ou bien dans d’autres
-communautés d’Ambria.
-
-## Humains
-À en croire les érudits de l’Ordo Magica, les peuples d’Ambria et de Davokar 
-descendraient d’une seule et même tribu, bien que les barbares et les sujets de la Reine ne se considèrent pas réellement comme étant aussi intimement liés. Les prétentions de la
-reine Korinthia sur les terres d’Ambria, situées au sud de la forêt du Davokar, reposent sur ses liens ancestraux avec cette région, et même les linguistes ambriens les moins expérimentés sont capables d’expliquer quelles similitudes existent entre le langage difficilement intelligible des barbares et la langue mélodieuse des sujets de la Reine. Les
-affirmations concernant le lieu d’origine commun à ces deux peuples, qui se situerait au sein de l’ancien empire oublié de Symbaroum et dans les ruines enfouies dans les profondeurs extrêmes du Davokar, sont, quant à elles, plus controversées. 
-Il existe toutefois, au niveau culturel, des différences marquantes entre les deux peuples.
-Les Ambriens abandonnèrent leurs terres natales désolées d’Albérétor, il y a vingt ans de cela pour trouver refuge et s’installer dans les ruines préservées de Lindaros. Ils  emmenèrent avec eux leur architecture, leurs connaissances, leur système économique et leur hiérarchie sociale. Grâce à sa discipline, l’armée ambrienne surpasse les guerriers
-des clans barbares lorsqu’ils s’affrontent en terrain découvert. Cependant, dans les bois où
-les aptitudes individuelles deviennent un facteur décisif, les barbares peuvent combattre à armes égales. À cela vient s’ajouter leur connaissance des lieux bien supérieure, et qui a permis jusqu’à présent d’empêcher les Ambriens de pénétrer dans les profondeurs de la forêt si l’on fait exception, bien sûr, des chasseurs de trésors, des fanatiques religieux à la recherche de temples perdus et des autres colons cherchant à échapper au contrôle de la Reine.
-Depuis la nuit des temps, les barbares sont gouvernés par des chefs de clan, mais ils jouissent depuis toujours de bien plus d’indépendance et de liberté que les paysans et les propriétaires terriens du sud. Les chefs des clans barbares, quant à eux, ne cherchent pas à imposer un mode de vie strict ou rigide à leurs sujets. Leurs guides spirituels, les sorcières, régissent subtilement la vie quotidienne de tous par le biais d’interdits et de règles de vie — tels que respecter et vénérer la nature et se tenir à distance des endroits les plus sombres de la forêt. 
-Les clans mènent leur existence indépendamment les uns des autres, à l’exception d’accrochages occasionnels autour de ressources naturelles dans les régions frontalières. La tradition veut que les chefs de clan se soumettent à l’autorité du Haut Chef sur le plateau de Karvosti, mais, en réalité, le rôle de ce dernier consiste plus à arbitrer les disputes entre clans rivaux qu’à les gouverner. Néanmoins, le Haut Chef se doit d’unir et de diriger les clans barbares contre l’envahisseur — dans le cas où, par exemple, la guerre serait officiellement déclarée avec les Ambriens.
-La perspective d’une résistance barbare unie et commandée par le Haut Chef donne des cauchemars à la Reine et ses conseillers. Cela expliquerait les précautions que prennent les Ambriens face au Davokar. Depuis la bataille de l’an 10, où les troupes de Korinthia attaquèrent et détruisirent Haloban et ses Jézites, seuls les Templiers servant le Dieu-
-Soleil osèrent mener une attaque de front contre les communautés barbares. L’assaut tristement célèbre qu’ils menèrent en l’an 16 sur Karvosti pour tenter de conquérir le plateau par les armes s’acheva sur une défaite décourageante.
-Traits des Ambriens Un personnage qui est sujet de la Reine peut choisir le Trait Contacts ou Privilégié.
-
-### Noms ambriens
-Les noms féminins ambriens se terminent généralement en -a tandis que les noms 
-masculins se terminent en -o, mais il existe de nombreuses exceptions, car  il s’agit d’un peuple issu d’un royaume extrêmement vaste. Une exception notable porte sur les noms de la plupart des nobles d’Ambria qui se terminent en -gaï, -goï ou -mei. L’utilisation de la lettre « x » est rare, mais perdure et la lettre « j » est presque systématiquement remplacée par la lettre « i ». Les voyelles « e » et « i » sont fréquemment utilisées.
-- Exemples de noms masculins ambriens :
-Aro, Bérémo, Déméon, Édogaï, Gadramei, Iassogoï, Jomilo, Karlio, Malliano, Péonio.
-- Exemples de noms féminins ambriens :
-Abésina, Élindra, Élionara, Lévia, Méhira, Ordélia, Révina, Suria, Variol, Vidina.
-# Archétypes
-« Chaque fois que vous allumez une bougie, vous créez une ombre. »
-Seldonio, Grand Maître de l’Ordo Magica
-
-Les Théurges de Prios font face à une toute autre question : êtes-vous un combattant des Ténèbres ou un gardien de la Lumière ? Bien des Théurges ne choisissent aucune des deux options, préférant équilibrer ces deux perspectives contradictoires durant toute leur vie. Mais la plupart font un choix et acceptent ce but, sachant que d’autres champions de la Lumière choisiront une autre voie et veilleront à ce que l’équilibre soit maintenu.
-
-## Attributs des Mystiques
-Les Mystiques ont un grand respect pour les esprits inébranlables (Volonté), et dans le cas des sorcières, c’est la force mentale d’un individu qui détermine s’il sera accepté ou non en tant qu’apprenti. Pour les mages de l’Ordo Magica, une éducation classique (Astuce) est tout aussi importante et les Théurges de Prios sont souvent considérés comme possédant une personnalité affirmée (Persuasion). Les Mystiques n’étant liés à aucune de ces traditions possèdent souvent une résistance psychique hors du commun, telles les conjureurs, par exemple, qui sont également très expérimentées dans l’art de ne pas se faire remarquer (Discrétion).
-
-## Talents MystIques
-
-Les Talents suivants incluent à la fois ceux du Livre de base et du Guide du Joueur, classés par Attributs le cas échéant :
-
-- Talent archétypal : Don exceptionnel (nécessite trois autres Talents de la liste ci-dessous)
-- Précision : Guerrier né, Maîtrise des armes d’hast
-- Astuce : Alchimie, Art de la Forge, Connaissance des bêtes, Érudit, Medicus
-- Persuasion : Domination, Meneur né
-- Agilité : Acrobatie
-- Volonté : Inébranlable, Pouvoir mystique
-- Vigilance : Sixième sens, Vision de l’Ombre
-- Général : Attribut exceptionnel, Berserker, Chant troll, Magie, Récupération, Ritualiste, Magie au bâton, Sorcellerie, Symbolisme, Théurgie
-
-## Théurge
-« L’oeil de Prios est sur vous, hérétique ! »
-
-Vous êtes un Théurge, un prêtre doué de pouvoirs mystiques. Votre foi dans 
-l’Ordonnateur des lois est indéfectible : Prios est le soleil et la lumière de l’âme, celui qui sauva les hommes de la servitude des Anciens Dieux. Il est le créateur du monde et le protecteur de toute vie. De cette source pure, jaillit un pouvoir extraordinaire. Vos connaissances mystiques auraient été vides de sens et dangereuses sans les fondements de votre foi pour vous guider et cela peut être observé lorsque des Mystiques apostats usent de leurs pouvoirs. 
-- Attributs importants : Volonté 13+, Astuce ou Vigilance 11+
-- Races conseillées : Ambrien
-- Talents adéquats : Medicus, Pouvoir mystique, Ritualiste, Théurgie
-
-## InquIsIteur (professIon) sentIer de théurgIe
-« Brûlez-les tous, Prios reconnaîtra les Siens. »
-
-Pour certains Théurges, que ce soit parmi les prêtres ou les Manteaux noirs, la haine des ténèbres est si forte qu’ils choisissent de devenir Inquisiteurs afin de rechercher et détruire les agents de la corruption. Pour ce faire, ils sont heureux de coopérer avec les Templiers et d’autres membres de l’Église. Mais s’ils n’ont aucun désir de comprendre le mal, ils préfèrent utiliser la ruse, les embuscades et les assassinats pour atteindre leurs buts, jamais la force brute comme les Templiers. Pour la plupart des Inquisiteurs, les Conjureurs et leurs suivants n’ont aucun droit d’exister et ils ne s’embarrassent pas de considérations morales dans leur combat contre les Ténèbres.
-
-- Talents requis : Pouvoir mystique (Anathème ou Imperceptible), Ritualiste (Fumée révélatrice), Théurgie, Vision de l’Ombre ou Coup en traître
-- Dons du Sentier : Purgatoire, Regard perçant
-- Atouts recommandés : Archiviste, Contacts, Effrayant, Limier, Privilégié, Serviteur
-- Fardeaux conseillés : Cauchemars, Code d’honneur
-
-# Traits
-
 ## Atouts 
-Les Atouts sont des capacités ou des ressources plus efficaces pour gérer les défis sociaux et la résolution de problèmes que les combats. Tout le monde peut acquérir un Atout, car ils ne sont souvent qu’une question d’entraînement. Toutefois, comme de nombreux Atouts se retrouvent naturellement dans divers environnements, ils sont plus pertinents pour les membres de certaines Carrières ou certains Archétypes, du moins au début. Il faut également souligner que les Atouts listés dans cette section sont intéressants pour
-ajouter de la couleur aux personnages, à un coût moindre en Expérience que les Talents. Certains Atouts peuvent être acquis à plusieurs reprises, ce qui signifie que leurs bonus peuvent aller de +1 à +3. Ils sont indiqués par un * dans la liste, page 52 et cette spécificité est également mentionnée dans la description des Atouts concernés.
 
 ### Privilégié
 Le personnage appartient à une race d’un rang social élevé au sein de sa société et profite donc d’avantages auxquels d’autres n’ont simplement pas accès, ou pour lesquels ils doivent payer cher, voire travailler dur. 
 Le personnage se voit accorder une seconde chance de réussir lorsqu’il est confronté à une situation d’ordre social au sein de sa propre société et n’a pas besoin de lancer les dés à moins de vouloir accomplir une action discutable ou s’il tente de réussir l’impossible.
 En outre, le personnage débute la partie avec cinquante thalers dans sa bourse.
 
-### Limier
-Le personnage a développé une capacité à pister et retrouver les gens, relevant des indices sur le sol, dans un antre ou parmi leurs possessions. Le personnage bénéficie d’un bonus de +1 sur les tests de Vigilance et d’Astuce lorsqu’il s’agit de trouver et suivre une piste ou de découvrir où une personne se cache. 
-Limier peut être acquis à plusieurs reprises, jusqu’à un bonus de +3 pour les tests concernés.
-
-#### Archiviste
-Le personnage a reçu une formation pour organiser et rechercher des informations. Il gagne un bonus de +1 lorsqu’il fait des recherches dans les archives et les bibliothèques.
-Archiviste peut être acquis à plusieurs reprises, jusqu’à un bonus de +3 pour les tests concernés.
-
-#### Contacts
-Le personnage a été membre d’une organisation ou a voyagé dans des contrées lointaines et variées. Il a, par conséquent, développé un vaste réseau de contacts. Grâce à la réussite d’un test de Persuasion, le personnage peut se souvenir d’un contact qui serait susceptible de lui apporter de l’aide sur une question spécifique ou dans une situation délicate. Le contact peut ne pas être directement disponible — cela dépend de qui appartient à ce réseau de contacts. Les factions et personnes parmi lesquelles vous pouvez choisir la nature du réseau de contacts du personnage sont : l’armée de la Reine, les Patrouilleurs de la Reine, les sorcières, l’Ordo Magica, l’Église de Prios, les maisons 
-nobles et les chasseurs de trésors.
-
-#### Effrayant
-Le personnage sait comment menacer de façon efficace et peut terrifier les gens pour qu’ils lui obéissent, même peu de temps. Il bénéficie d’un bonus de +1 à tous ses tests de Persuasion liés aux menaces, aux interrogatoires et à la coercition. 
-L’effet est momentané, et la victime peut par la suite parfaitement médire sur le personnage chaque fois qu’elle en aura l’occasion.
-Effrayant peut être acquis à plusieurs reprises, jusqu’à un bonus de +3 pour les tests concernés.
-
-#### Serviteur
-Le personnage bénéficie d’un serviteur personnel.
-Il peut s’agir d’un employé, un valet de chambre ou quelque chose d’approchant. Le serviteur est loyal envers le personnage joueur, mais il ne sert à rien d’autre en terme de compétences (Résistance faible). Il peut effectuer des tâches simples, monter la garde la nuit ou porter des messages, mais il ne sera d’aucune aide dans des situations
- dangereuses.
-Le serviteur est joué par le Meneur de jeu, qui devra lui attribuer une personnalité convenable.
-
 ## Fardeaux 
-Les Fardeaux sont des traits négatifs qui s’ajoutent à l’historique des personnages et fournissent de l’Expérience supplémentaire à dépenser dans des Traits et des Atouts. Utiliser les Fardeaux est une règle optionnelle, il doit donc y avoir un consensus entre les joueurs à ce sujet.
 
 ### Code d’honneur
 Le personnage a adopté un code d’honneur très strict, applicable dans toutes les situations. Cela peut se révéler être une gêne lors d’un combat, car le personnage joueur ne peut le fuir une fois qu’il a débuté. Il est bien sûr toujours possible d’éviter un combat mais, lorsqu’il est en cours, tous les ennemis doivent être vaincus !
 
-#### Cauchemars
+### Cauchemars
 Le personnage est hanté toutes les nuits par des cauchemars, concernant une expérience passée ou quelque chose de plus vague, comme un mauvais présage ou la conséquence d’une malédiction familiale.
 Chaque nuit, le personnage doit réussir un test de Volonté, sinon aucune guérison naturelle ne se produira ce jour-là. Les autres formes de guérison ne sont pas affectées.
 
 # Talents
-Les Talents donnent au personnage son rôle et sa place au sein du monde de
-Symbaroum. Ils représentent la capacité d’une personne à utiliser ses aptitudes aussi
-efficacement que possible et sont divisés en trois niveaux, de Novice à Maître.
 
 ## Don exceptIonnel
 
@@ -286,19 +27,15 @@ Le Don exceptionnel, inné ou acquis grâce à l’entraînement et la pratique,
 | | | |
 |---|---|---|
 |Novice|Spécial|Le Don exceptionnel permet au personnage de choisir un pouvoir signature. Ce pouvoir est sélectionné parmi ceux déjà connus du Mystique et, une fois choisi, son utilisation n’inflige plus qu’un (1) point de Corruption temporaire. Si le personnage ne possède aucun pouvoir ou souhaite utiliser un Talent corrupteur en guise de signature, il en a la possibilité : le choix des Talents Ritualiste (incluant tous les Rituels) ou Vision de l’ombre signifie que l’activation de ceux-ci ne coûtera jamais plus d’un point de Corruption temporaire. Des Traits tels que Sagesse séculaire peuvent également être choisis. Le Don exceptionnel n’a pas d’effet sur la Corruption permanente subie lors de l’apprentissage d’un pouvoir d’une autre Tradition mystique, il affecte uniquement la quantité de Corruption temporaire subie lors de l’utilisation de ce pouvoir.|
-|Adepte|Active|Un personnage possédant le Don exceptionnel au niveau Adepte utilise son score total de Volonté en guise de Seuil de Corruption, au lieu de la moitié. Un tel individu n’est pas totalement corrompu tant que son total de Corruption n’atteint pas une valeur égale à Volonté x2.|
-|Maître|Active|Le Don permet alors au personnage de lancer n’importe quel pouvoir mystique, mais jamais au-dessus du niveau Novice. Le personnage a une deuxième chance d’échouer à tous les tests de réussite et l’utilisation du pouvoir inflige 1D8 points de Corruption temporaire. Tous les pouvoirs mystiques sont disponibles, quelle que soit la tradition à laquelle ils appartiennent.|
 
 ## Théurgie
 
 La Théurgie est l’enseignement mystique pratiqué par les prêtres théurges de l’Église de Prios. La Théurgie est la doctrine de la flamme intérieure ; l’étincelle de l’âme y est considérée comme un reflet du divin et de la lumière créatrice du soleil.
 
-
 | | | |
 |---|---|---|
 |Novice|Spéciale.|Le théurge ne subit plus de Corruption permanente lorsqu’il apprend des pouvoirs de niveau Novice appartenant à la tradition de la Théurgie ni lorsqu’il en pratique les rituels. Malgré cela, le personnage n’est pas protégé contre la Corruption temporaire inhérente à l’utilisation de pouvoirs et de rituels théurgiques.|
 |Adepte|Spéciale.|Le théurge ne subit plus de Corruption permanente lorsqu’il apprend des pouvoirs de niveau Adepte appartenant à la tradition de la Théurgie. Les fondements de la foi du Théurge Adepte sont suffisamment solides pour qu’il ne subisse plus qu’un point (1) de Corruption temporaire lors de l’utilisation de pouvoirs et de rituels théurgiques.|
-|Maître|Spéciale.|Le théurge a atteint un tel niveau de compréhension de l’essence de ses pouvoirs divins qu’il soigne 1D4 supplémentaires lorsqu’il utilise des pouvoirs sacrés de soin, y compris ceux qui blessent les Abominations et les Morts-vivants. En outre, le théurge ne subit plus de Corruption permanente lorsqu’il apprend des pouvoirs de niveau Maître appartenant à la tradition de la Théurgie.|
 
 ## Ritualiste
 
@@ -314,7 +51,6 @@ Le Talent Ritualiste permet au personnage de reconnaître les rituels pratiqués
 |---|---|---|
 |Novice|Spéciale.|Le personnage a appris à pratiquer un (1) rituel. Le rituel peut appartenir à n’importe quelle tradition mystique, mais le personnage doit avoir accès au rituel afin de l’apprendre et de le mémoriser. Ce savoir peut avoir été acquis auprès d’un instructeur appartenant à la même organisation que le personnage. Il peut aussi provenir d’un codex découvert dans les ruines de Symbaroum ou avoir été enseigné par un autre Ritualiste en remerciement d’un service rendu.|
 |Adepte|Spéciale.|Le personnage a appris à pratiquer deux rituels supplémentaires (trois au total), appartenant également à n’importe quelle tradition mystique, mais soumis aux mêmes conditions que celles décrites dans le niveau Novice.|
-|Maître|Spéciale.|Le personnage a appris à pratiquer trois rituels supplémentaires (six au total). Tout comme aux niveaux précédents, le Maître Ritualiste n’est pas tenu de se limiter aux rituels d’une seule tradition mystique, mais doit avoir accès au rituel afin de l’apprendre et de le mémoriser.|
 
 ## Vision de l’ombre
 
@@ -325,8 +61,6 @@ Comme cela a été expliqué précédemment, la couleur des Ombres peut procurer
 | | | |
 |---|---|---|
 |Novice|Gratuite.|Le personnage peut effectuer une Action gratuite pour faire un test [Vigilance ← Discrétion] afin de tenter de discerner l’Ombre dominante d’une créature, d’un lieu ou d’un objet. Chacune de ces tentatives force le personnage à subir 1D4 points de Corruption temporaire.|
-|Adepte|Gratuite.|Le personnage possède la grande clairvoyance d’un Adepte concernant les auras et les phénomènes mystiques. Vision de l’Ombre révèle désormais toutes les Ombres de la cible inspectée, mais pas leurs forces respectives. Le personnage subit 1D6 points de Corruption temporaire à chaque fois qu’il tente de discerner les Ombres d’une créature, d’un lieu ou d’un objet.|
-|Maître|Gratuite.|Le personnage a atteint le niveau de clairvoyance d’un Maître et peut désormais discerner toutes les Ombres et leurs forces respectives. Le personnage subit 1D8 points de Corruption temporaire à chaque fois qu’il tente de discerner les Ombres d’une créature, d’un lieu ou d’un objet.|
 
 ## Pouvoir mystique
 Le personnage fait partie des êtres qui ont accès aux Pouvoirs mystiques. Ces pouvoirs 
@@ -343,53 +77,6 @@ Une fois encore, la Corruption peut être réduite si le pouvoir est considéré
 |Adepte|Spéciale.|Le personnage maîtrise le niveau Adepte du pouvoir.|
 |Maître|Spéciale.|Le personnage maîtrise le niveau Maître du pouvoir.|
 
-## Récupération
-
-Les Manteaux noirs et les Mystiques ont développé des techniques méditatives qui leur octroient de surprenantes capacités physiologiques. Le personnage est capable de puiser dans ses réserves d’énergie avec une discipline quasi magique afin de régénérer son corps, et ce, même en plein combat.
-
-| | | |
-|---|---|---|
-|Novice|Active.|Grâce à la réussite d’un test de Volonté, le personnage récupère 1D4 Endurance. Il peut effectuer plusieurs tentatives, mais l’utilisation est limitée à une seule réussite par jour.|
-|Adepte|Active.|Similaire au niveau Novice, mais le personnage récupère 1D6 Endurance.|
-|Maître|Active.|Similaire au niveau Adepte, mais le personnage récupère 1D8 Endurance|
-
-## Inébranlable
-
-La discipline mentale et les stratagèmes permettant de résister aux influences néfastes ont été depuis longtemps développés au sein des rangs des Templiers et des Manteaux noirs. On trouve également parmi les Mystiques, des individus ayant perfectionné l’art de la résistance. L’esprit du personnage est aussi impénétrable que l’acier et le pousse à continuer le combat y compris lorsque tout espoir semble perdu.
-
-Les Mystiques parviennent rarement à entraver ou à prendre le contrôle des sens du personnage, et dans certains cas, un personnage réellement inébranlable réussit à se défendre et même à retourner la magie contre son lanceur.
-
-| | | |
-|---|---|---|
-|Novice|Réactive|Le personnage peut effectuer un deuxième test de Force ou de Volonté lorsqu’il est affecté par certains effets physiques : pièges, poison, effets alchimiques. Cela inclut les énergies provenant de pouvoirs mystiques à condition qu’elles aient une manifestation physique, sous forme de feu ou d’acide, par exemple.|
-|Adepte|Réactive|Le personnage est robuste et peut effectuer une deuxième tentative afin de se débarrasser des pouvoirs qui affectent sa volonté ou ses sens.|
-|Maître|Réactive|L’esprit du personnage contre-attaque face à quiconque essaie de l’affecter. Lorsque le personnage est victime d’une attaque mentale (en d’autres termes, les attaques modifiées par la Volonté) qui échoue, l’attaquant subit 1D6 dégâts qui ignorent la protection de l’Armure.|
-
-### Alchimie
-Le personnage est initié aux mystères de l’alchimie.
-À l’aide des ingrédients appropriés, le personnage peut concocter divers types d’élixirs qui l’aideront à survivre aux sombres profondeurs de Davokar.
-Vous trouverez une liste des mixtures et potions au Chapitre 16 : Équipement, page 152.
-Lors de la résolution d’un problème, le Talent Alchimie peut être utilisé pour identifier des
-substances ou des poisons et en savoir plus sur leur provenance. Le personnage peut également tenter de préparer un élixir une fois par aventure.
-Cette tentative peut s’effectuer avant le début de l’aventure ou à un moment approprié au cours de l’aventure, par exemple lors de la traversée d’une forêt ou d’une grotte dans laquelle de puissants ingrédients peuvent être récoltés.
-
-| | | |
-|---|---|---|
-|Novice|Spéciale.|Grâce à la réussite sur un test d’Astuce, le personnage peut récolter des herbes et des minéraux afin de préparer une dose d’un élixir Novice.|
-|Adepte|Spéciale.|Le personnage est un alchimiste confirmé, il peut effectuer un test d’Astuce afin de récolter des herbes et des minéraux qui lui permettront de préparer une dose d’un élixir Adepte ou 1D4 doses d’un élixir Novice.|
-|Maître|Spéciale.|Le personnage est un alchimiste reconnu et peut effectuer un test d’Astuce afin de récolter des herbes et des minéraux qui lui permettront de préparer une dose d’élixir Maître ou 1d4 doses d’élixir Adepte ou 1D8 doses d’un élixir Novice.|
-
-### Connaissance des bêtes
-Le personnage possède une connaissance accrue du monde animal et de la plupart des monstres. 
-Nombre de monstres sont dotés de capacités spéciales et possèdent des attaques uniques ainsi que des points faibles qu’il est utile de connaître lorsqu’un personnage tente de les abattre. À un niveau élevé, le personnage doit choisir une spécialisation — Abominations, Bêtes, Créatures civilisées ou Morts-vivants — et bénéficie d’avantages
-supplémentaires face aux représentants de la catégorie choisie.
-Un personnage possédant Connaissance des bêtes peut identifier les traces d’un grand nombre de monstres et de créatures, et mettre à profit ces informations afin d’en déduire la taille et le comportement de la créature : est-elle en chasse, en fuite ou seulement de passage ?
-| | | |
-|---|---|---|
-Novice|Gratuite.|Le personnage a étudié les monstres et peut effectuer un test d’Astuce afin de reconnaître ou de se souvenir des forces et faiblesses d’un monstre. Le Meneur de Jeu décrit le monstre et ses caractéristiques au joueur.|
-|Adepte|Gratuite.|Le personnage possède des connaissances approfondies et a étudié une sous-catégorie de monstres spécifiques (choisissez Abominations, Bêtes, Créatures civilisées ou Morts-vivants). Le personnage inflige dorénavant +1D4 dégâts aux monstres de cette catégorie. Ces dégâts supplémentaires peuvent être infligés également par les alliés du personnage, à condition qu’il leur ait indiqué de quelle manière combattre la créature efficacement.|
-|Maître|Gratuite.|Le personnage inflige désormais +1D6 dégâts aux créatures appartenant à la sous-catégorie choisie par le joueur au niveau Adepte. Ces dégâts supplémentaires peuvent être infligés également par les alliés du personnage, à condition qu’il leur ait indiqué de quelle manière combattre la créature efficacement.|
-
 ### Érudit
 Le personnage est éduqué et connaît parfaitement le monde qui l’entoure : ses cultures, son histoire, ses langues et ses trésors. Au fil des siècles, héros, monstres et royaumes se sont succédés et ont laissé derrière eux de puissants objets magiques et de mystérieux écrits. Ce Talent reflète la connaissance de ces objets : un personnage qui en est doté a appris, grâce des études poussées, l’histoire de ces objets, mais également leurs propriétés et applications. 
 Le Talent Érudit représente en outre la capacité du personnage à effectuer des recherches efficaces dans une bibliothèque, des archives ou des documents administratifs, ce qui peut s’avérer fort utile lorsque ce type de situation se produit. 
@@ -397,28 +84,6 @@ Le Talent Érudit représente en outre la capacité du personnage à effectuer d
 |---|---|---|
 Novice|Gratuite.|Grâce à la réussite d’un test d’Astuce, un personnage qui possède ce Talent peut deviner les propriétés d’un objet magique spécifique, mais pas le moyen de l’activer. De la même manière, un Novice peut utiliser son Astuce pour traduire un texte ou comprendre ce qui lui est dit dans une autre langue humaine. Le personnage n’a pas besoin d’effectuer un test pour formuler des mots ou phrases simples, mais la réussite à un test d’Astuce est nécessaire s’il tente d’avoir une vraie conversation.|
 |Adepte|Gratuite.|Le personnage est suffisamment érudit pour pouvoir utiliser son Astuce au lieu de sa Volonté lorsqu’il tente d’activer un objet magique. Grâce à la réussite d’un test d’Astuce, le personnage peut également lire et comprendre la langue des elfes et celle si disgracieuse des trolls. Formuler des phrases simples en langue elfique ou troll ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation.|
-|Maître|Gratuite.|Le personnage est un spécialiste reconnu de l’interprétation des parchemins, il peut ainsi, grâce à la réussite d’un test d’Astuce, activer des pouvoirs mystiques directement à partir d’un parchemin. Ce niveau de Talent permet également au personnage d’utiliser son Astuce au lieu de sa Volonté pour résister aux effets mystiques. L’histoire de Symbaroum n’a plus de secrets pour le Maître : la réussite d’un test d’Astuce est nécessaire afin que le personnage puisse lire un texte écrit dans une langue ancienne et disparue. Formuler des phrases simples dans l’une de ces langues disparues ne nécessite pas de test, mais la réussite d’un test d’Astuce est nécessaire si le personnage souhaite entamer une conversation.|
-
-### Medicus
-Le personnage maîtrise l’art de la guérison et constitue donc un atout convoité au sein de sa communauté, que ce soit pour empêcher les maladies de se propager, pour soigner les blessures des guerriers ou pour veiller à la bonne santé des classes dirigeantes.
-L’art de la guérison s’est développé parallèlement à l’alchimie, expliquant ainsi le grand
-nombre de guérisseurs qui possèdent également des connaissances en alchimie, tout particulièrement ceux qui officient loin de la civilisation, dans des régions où se procurer des remèdes chez un marchand bien achalandé est impossible.
-Un personnage possédant le Talent Medicus peut diagnostiquer et soigner des maladies, et identifier un poison à travers les symptômes qu’il provoque. Medicus offre également au personnage des connaissances en médecine légale qui peuvent s’avérer utiles lors de l’examen d’une scène de crime ou d’un cadavre.
-| | | |
-|---|---|---|
-|Novice|Active.|Le personnage est un chirurgien habile et peut effectuer un test d’Astuce pour soigner un patient de 1D4 points d’Endurance ou 1D6 en utilisant un remède à base de plantes. Ce Talent ne peut être utilisé qu’une fois par patient et par jour.|
-|Adepte|Active.|Le personnage est un Medicus reconnu. Grâce à la réussite d’un test d’Astuce, il peut soigner un patient de 1D6 points d’Endurance ou 1D8 en utilisant un remède à base de plantes. Ce Talent ne peut être utilisé qu’une fois par patient et par jour.|
-|Maître|Active.|Le personnage est un Maître Medicus et possède un savoir médical très étendu. Grâce à la réussite d’un test d’Astuce, il peut soigner un patient de 1D8 points d’Endurance ou 1D10 en utilisant un remède à base de plantes. Un test échoué soigne malgré tout le patient d’une partie de son Endurance : 1D4 en utilisant le Talent Medicus seul, 1D6 en y ajoutant un remède à base de plantes. Ce Talent ne peut être utilisé qu’une fois par patient et par jour.|
-
-### Sixième sens
-Au cours d’un déplacement à travers une forêt sombre ou un tunnel souterrain, la vue ne constitue plus un allié si fiable que cela. Allumer une lanterne ou une torche est susceptible d’attirer des dangers.
-Par conséquent, l’explorateur doit apprendre à se fier à ses autres sens. Un entraînement assidu peut permettre d’éveiller ces autres sens et de les aiguiser jusqu’à ce qu’ils soient inquiétants. Le Talent Sixième sens octroie au personnage des capacités uniques lorsqu’il se bat à distance ou s’il se trouve dans une situation qui ne lui permet pas de se fier à sa vue.
-Un personnage doté du Talent Sixième sens peut, dans un contexte serein, manoeuvrer librement malgré une faible luminosité et conserver son sens de l’orientation dans le noir total, mais à une vitesse équivalente à un quart de sa vitesse normale en plein jour.
-| | | |
-|---|---|---|
-|Novice|Passive.|Le personnage possède une grande intuition, ce qui lui permet d’utiliser Vigilance au lieu de Précision lorsqu’il attaque avec une arme à distance.|
-|Adepte|Passive.|L’intuition du personnage est encore améliorée et il peut désormais utiliser Vigilance au lieu d’Agilité pour l’ordre d’Initiative et pour calculer sa Défense.|
-|Maître|Passive.|Le personnage peut se déplacer et combattre sans entrave lorsqu’il est aveuglé ou dans le noir total.|
 
 # Traditions mystiques
 Personne n’ignore que le monde n’est pas uniquement constitué de matière, et qu’il existe des individus capables de manipuler les flux des énergies matérielles et immatérielles. L’utilisation de pouvoirs mystiques n’est en aucun cas banale, que ce soit en Ambria ou parmi les clans barbares. Mais elle est suffisamment fréquente pour que nombre de cultures aient tissé des traditions touchant au mystique. 
@@ -467,8 +132,6 @@ Le Mystique a étudié l’art de contrer la magie et peut dissiper les effets d
 | | | |
 |---|---|---|
 |Novice|Active.|En réussissant un test [Volonté ← Volonté], Le Mystique peut dissiper les effets en cours d’un pouvoir sur une créature, ou lui-même, à condition qu’il soit en mesure d’utiliser la magie. C’est la Volonté du Mystique qui a déchaîné le pouvoir qui est utilisée comme résistance lors du test.|
-|Adepte|Active.|Le Mystique peut dissiper les effets en cours sur plusieurs cibles à l’aide d’un enchaînement ; le test est effectué sur une cible à la fois.|
-|Maître|Active.|Le Mystique est désormais suffisamment puissant pour dissiper toutes sortes d’effets mystiques, y compris les créatures et les effets invoqués, en réussissant un test de Volonté.|
 
 ### Imperceptible
 **Matériel** : un ruban de voile transparent.
@@ -477,7 +140,6 @@ Le Mystique peut demeurer indécelable en détournant subtilement l’attention 
 |---|---|---|
 |Novice|Active.|En réussissant un test de Volonté, le Mystique peut disparaître de la vue d’une créature. Le Mystique demeure invisible aux yeux de cette créature jusqu’à ce qu’il attaque ou subisse des dégâts, quelle qu’en soit la nature.|
 |Adepte|Active.|En réussissant un test de Volonté, le Mystique peut disparaître de la vue de toutes les créatures à proximité et demeurer invisible aux yeux de ces créatures jusqu’à ce qu’il attaque ou subisse des dégâts, quelle qu’en soit la nature.|
-|Maître|Active.|En réussissant un test de Volonté, le Mystique peut disparaître et faire disparaître un allié de la vue de leurs ennemis. Le Mystique et son allié demeurent invisibles séparément et peuvent être détectés ou rester dissimulés séparément, jusqu’à ce qu’ils attaquent ou subissent des dégâts, quelle qu’en soit la nature.|
 
 ### Verre ardent de Prios
 **Matériel** : un symbole sacré.
@@ -487,72 +149,13 @@ dégâts à la plupart des créatures et qui peut détruire toute créature impi
 |---|---|---|
 |Novice|Active.|En réussissant un test de Volonté, le Mystique guide la lumière sacrée vers une cible, lui infligeant 1D6 points de dégâts. Les dégâts sont de 1D8 si la cible est une abomination ou un mort-vivant. |
 |Adepte|Active.|En réussissant un test de Volonté, le Mystique peut propager la lumière sacrée à travers tous les ennemis à proximité. L’énergie ardente inflige 1D8 points de dégâts, 1D12 aux abominations et morts-vivants. |
-|Maître|Active.|En réussissant un test de Volonté, le Mystique peut illuminer de sa lumière sacrée tous les ennemis à proximité, infligeant 1D8 dégâts, 1D12 si les ennemis sont des abominations ou des morts-vivants. Il peut également étourdir toutes les créatures profondément corrompues et les morts-vivants ennemis pendant un tour, en réussissant un test [Volonté ← Volonté].|
 
-#### Aura sacrée
-**Matériel** : un symbole sacré.
-Le Mystique peut créer une aura de sainteté et d’incarnation de vie nocive pour les abominations et les morts-vivants. Aux plus hauts niveaux, cette aura peut également offrir des pouvoirs de soin aux créatures vivantes.
-| | | |
-|---|---|---|
-|Novice|Active.|En réussissant un test de Volonté, le Mystique s’enveloppe d’une aura d’énergies sacrée nocive pour les abominations et les morts-vivants. La cible subit 1D6 dégâts, ignorant l’Armure. Ce pouvoir affecte tout mort-vivant et abomination à portée de vue du Mystique et perdure jusqu’à ce qu’il rate un test de Volonté ou perde sa concentration. Le Mystique peut exclure les abominations et morts-vivants alliés de l’effet de l’aura sacrée.|
-|Adepte|Active.|L’aura inflige désormais 1D8 dégâts aux abominations et morts-vivants, tandis que les créatures vivantes sont soignées de 1D4 points d’Endurance à chaque tour.|
-|Maître|Active.|Effets similaires au niveau Adepte, mais les dégâts infligés aux abominations et morts-vivants sont de 1D10 et les énergies sacrées soignent également les alliés vivants de 1D6 points d’Endurance à chaque tour.|
-
-#### Blessure partagée
-**Matériel** : une giclée de sang.
-Le Mystique a étudié de près les esprits de la création et de la mort, et il peut utiliser ses connaissances pour répartir des dégâts entre ses alliés, ses ennemis et lui-même.
-| | | |
-|---|---|---|
-|Novice|Gratuite.|En réussissant un test de Volonté, le Mystique peut attirer les esprits mortifiants d’une autre créature. La cible est soignée de 1D6 points d’Endurance, tandis que le Mystique subit un nombre équivalent de dégâts.|
-|Adepte|Gratuite.|Similaire au niveau Novice, mais l’effet soigne de 1D8 points d’Endurance et redirige également les hémorragies et empoisonnements que subit éventuellement la cible vers le Mystique. Le Mystique subit donc les dégâts issus de blessures, de poisons ou de saignements.|
-|Maître|Active.|Le Mystique soigne sa cible de 1D8 points d’Endurance et ne subit que la moitié des dégâts. Il peut également rediriger l’autre moitié des dégâts vers une autre créature dans son champ de vision. La protection de la cible choisie est ignorée et elle ne peut se défendre d’aucune manière.|
-
-#### Bouclier sanctifié
-**Matériel** : un symbole sacré.
-Par sa foi et sa volonté, le Mystique peut brandir un bouclier saint contre les armes de ses ennemis. Le bouclier est invisible jusqu’à ce qu’il soit attaqué, auquel cas, il étincelle 
-comme s’il avait été frappé par la lumière du soleil.
-| | | |
-|---|---|---|
-|Novice|Active.|Grâce à la réussite d’un test de Volonté, le Mystique s’entoure d’une lueur chaude. Cette lueur lui procure 1D4 de protection supplémentaire. En outre, une abomination ou un mort-vivant qui effectue une attaque au corps à corps sur le Mystique subit 1D4 dégâts infligés par cette lueur, ignorant la protection. Le bouclier sanctifié perdure jusqu’à la fin de la scène.|
-|Adepte|Active.|Similaire au niveau Novice, mais le bouclier procure désormais 1D6 de protection supplémentaire et inflige 1D6 dégâts. En outre, un allié proche peut bénéficier des effets du bouclier sanctifié.|
-|Maître|Active.|Similaire au niveau Novice, mais le bouclier procure désormais 1D8 de protection supplémentaire et inflige 1D8 dégâts. Deux alliés proches peuvent bénéficier des effets du bouclier sanctifié.|
-
-#### Forme révélée
-**Matériel** : une chrysalide
-Le Mystique a passé de longues nuits à s’intéresser aux mensonges et aux apparences trompeuses et il est capable de contraindre ce qui l’entoure à révéler sa vraie nature.
-| | | |
-|---|---|---|
-|Novice|Réactive.|La clarté d’esprit du Mystique lui permet d’effectuer un test [Volonté ← Volonté] afin de discerner chaque illusion, transformation ou autre effet à proximité dissimulant la forme réelle des choses. Les illusions révélées disparaissent, tandis que les transformations demeurent intactes, même si le Mystique parvient à voir ce qu’elles dissimulent.|
-|Adepte|Active.|Le Mystique peut contraindre un enchaînement de créatures à révéler leur forme réelle, en réussissant un test [Volonté ← Volonté]. Si la première tentative réussit, le Mystique peut en effectuer une autre sur la créature suivante, et ainsi de suite jusqu’à ce qu’un test échoue. Rien n’empêche les créatures de se transformer de nouveau.|
-|Maître|Active.|Le Mystique peut non seulement contraindre les créatures transformées à révéler leur forme réelle, mais il peut également les forcer à conserver leur forme d’origine. La réussite d’un test de Volonté est nécessaire pour obliger les cibles à rester sous leur forme originelle, le test s’effectue selon l’Initiative de la cible si elle tente de se transformer à nouveau.|
-
-#### Imposition des mains
+### Imposition des mains
 **Matériel** : un symbole sacré.
 Les forces de la vie n’ont plus de secrets pour le Mystique, et, avec elles, ces pouvoirs de soin tant convoités, bien souvent interprétés comme un don de la divinité à laquelle le Mystique consacre sa foi.
 | | | |
 |---|---|---|
 |Novice|Active.|Le Mystique peut, par le biais du toucher et en réussissant un test de Volonté, soigner une cible de 1D6 points d’Endurance. Ce pouvoir fonctionne également sur le Mystique lui-même.|
-|Adepte|Active.|Le toucher guérisseur du Mystique soigne désormais de 1D8 points d’Endurance et met un terme aux hémorragies et aux effets des poisons.|
-|Maître|Active.|Le Mystique peut utiliser son pouvoir de guérison sur une créature située dans son champ de vision. Il la soigne de 1D8 points d’Endurance et met un terme aux hémorragies et effets des poisons. Le Mystique soigne de 1D12 points d’Endurance lorsqu’il touche sa cible.|
-
-#### Lévitation
-**Matériel** : une poignée de plumes.
-L’énergie qui maintient le monde peut être manipulée, et grâce à ce savoir, le Mystique a acquis la capacité de léviter par la seule force de son esprit.
-| | | |
-|---|---|---|
-|Novice|Active.|En réussissant un test de Volonté, le Mystique peut s’élever au-dessus du champ de bataille, hors de portée des armes de corps à corps. Le Mystique peut se déplacer d’une distance équivalente à une enjambée par tour lorsqu’il lévite. Les attaques à distance et les ennemis volants restent problématiques. Le Mystique peut se maintenir dans les airs jusqu’à ce qu’il perde sa concentration ou que la scène s’achève. S’il perd sa concentration, le Mystique tombe au sol et subit 1D6 dégâts, ignorant tout type de protection. |
-|Adepte|Active.|Le Mystique peut faire léviter un de ses alliés [Volonté ← Force], et lui permettre de s’envoler au-dessus du champ de bataille, hors de portée des armes de corps à corps. Le Mystique peut déplacer son allié en lévitation d’une distance équivalente à une enjambée par tour. Les attaques à distance et ennemis volants restent problématiques. L’allié du Mystique peut se maintenir dans les airs jusqu’à ce que le Mystique perde sa concentration ou que la scène s’achève. Si le Mystique perd sa concentration, l’allié en lévitation tombe au sol et subit 1D6 dégâts, ignorant tout type d’Armure.|
-|Maître|Active.|En respectant les règles d’enchaînement, le Mystique peut effectuer des test de [Volonté ← Force] pour s’envoler et faire léviter ses alliés, hors de portée des armes de corps à corps. Le Mystique peut se déplacer ainsi que toutes créatures en lévitation d’une distance équivalente à une enjambée par tour. Les attaques à distance et ennemis volants restent problématiques. Le Mystique et ses alliés peuvent se maintenir dans les airs jusqu’à ce que le Mystique perde sa concentration ou que la scène s’achève. Si le Mystique perd sa concentration, tous les alliés en lévitation redescendent lentement jusqu’au sol, sans subir de dégâts.|
-
-#### Marteau à sorcière
-**Matériel** : une arme de corps à corps bénie grâce au rituel Rite de sanctification.
-Le Mystique a appris à envelopper son arme de flammes punitives et sacrées, telle la légendaire Ofelya d’Attio, Porteuse de lumière.
-| | | |
-|---|---|---|
-|Novice|Gratuite.|Une flamme sacrée encercle l’arme de corps à corps du Novice et inflige 1D4 dégâts supplémentaires si la cible est une abomination ou un mort-vivant. Cet effet reste actif jusqu’à la fin de la scène.|
-|Adepte|Gratuite.|Similaire au niveau Novice, l’arme de corps à corps inflige 1D4 dégâts supplémentaires à toutes les cibles, 1D8 si la cible est une abomination ou un mort-vivant.|
-|Maître|Gratuite.|Similaire au niveau Novice, l’arme de corps à corps inflige 1D4 dégâts supplémentaires à toutes les cibles, mais montent à 1D10 dégâts supplémentaires si la cible est une abomination ou un mort-vivant.|
-
 
 ## Rituels
 Les rituels sont des pratiques chronophages nécessitant au moins une heure de préparation.
@@ -565,78 +168,10 @@ Le Mystique peut dévoiler les personnes ou créatures frappées par la Corrupti
 sont Touchés par la Corruption, Marqués par la Corruption ou Totalement corrompus.
 Fumée révélatrice peut être contrecarré par le rituel Échange d’Ombre.
 
-#### Affinité funeste
-**Tradition** : Sorcellerie, Conjuration, Théurgie
-En réussissant un test de Volonté, le Mystique peut infliger des douleurs à un ennemi à distance en endommageant une poupée ou en plantant des clous dans une empreinte laissée par la cible. Le Rituel requiert également un lien mystique avec la victime — une
-mèche de cheveux, une petite dose de sang ou un objet auquel la cible tient particulièrement. La victime ne subit pas de dégâts mais ressent de vives douleurs et n’a aucun moyen de se soigner pendant toute la durée des tourments. Le tourmenteur a besoin d’une heure pour accomplir le Rituel, mais aucun test n’est nécessaire après le premier. Affinité funeste peut être interrompu grâce au Rituel Rupture du lien. Après cela,
-le Mystique ne peut plus utiliser le même lien mystique et doit attendre trente jours pour exécuter à nouveau le Rituel même s’il a accès à un nouveau lien mystique.
-
-#### Bénédiction
-**Tradition** : Théurgie
-Avant un combat, le Mystique peut se bénir à grâce à des huiles sacrées, bénéficiant ainsi des bonus temporaires suivants : +10 en Endurance, +1D4 de protection qui viennent s’ajouter à l’armure portée et +1D4 de dégâts à toutes ses attaques. Si le Mystique subit des dégâts, il commence par perdre ses points d’Endurance temporaire avant que sa
-propre Endurance ne soit affectée. L’inconvénient est qu’il est impossible de soigner
-le Mystique, et que tous les Tests de mort ratent automatiquement. L’effet du Rituel dure le temps d’une scène.
-
-#### Chasse à l’hérétique
-**Tradition** : Théurgie
-En réussissant un test de Volonté, le Mystique peut suivre la trace d’une abomination ou d’une créature contaminée qu’il a rencontrée personnellement. Le pistage est impeccable jusqu’à ce que la créature corrompue traverse une étendue d’eau — si cela se produit, le rituel doit être accompli de nouveau sur la rive opposée du cours d’eau. Si le Mystique rate le test de Volonté, il ne peut pas effectuer de nouvelle tentative avant le lendemain. En outre, il est plus difficile de pister une créature corrompue au milieu de colonies largement peuplées, ainsi qu’en Davokar, ce qui inflige au Mystique une deuxième chance de rater le test. Le joueur doit effectuer deux jets, et, si l’un des deux est un échec, le rituel échoue.
-
-#### Confession forcée
+### Confession forcée
 **Tradition** : Théurgie
 Ce rituel contraint une victime à répondre honnêtement par oui ou par non à une série de questions posées par le Mystique. Chaque question nécessite un test de [Volonté ← Volonté], et le rituel est interrompu aussitôt qu’un test échoue. Le Mystique ne peut plus continuer à interroger la victime après cet échec, tout au moins par le biais de ce rituel.
 
-#### Exorcisme
+### Exorcisme
 **Tradition** : Théurgie
 Le Mystique peut bannir un esprit ayant pris possession d’une créature ou d’une personne. Il peut effectuer trois tentatives pour réussir un test de [Volonté ← Volonté], la résistance du test étant la Volonté de l’esprit possesseur. Un seul test réussi suffit à bannir l’esprit. Si le Mystique échoue à ses trois tentatives, alors l’esprit prend possession de lui à la place.
-
-#### Feu purificateur
-**Tradition** : Théurgie
-La Corruption est épouvantablement nuisible aux théurges, car elle incarne la principale preuve des pouvoirs des ténèbres. La plupart des théurges font tout leur possible pour ne pas être atteints par la Corruption et s’ils échouent, ils peuvent toujours apprendre le rituel de Feu purificateur.
-Lorsqu’il exécute ce rituel, le Mystique se prépare en entonnant chants et prières avant de
-monter sur un bûcher qui lui permettra de purifier son corps de toute Corruption. Chaque tour que le Mystique passe au milieu des flammes lui inflige 1D6 dégâts, et, s’il réussit un test [Volonté ← Dégâts], il perd un (1) point de Corruption permanente. Si le test échoue, le Mystique s’écarte du bûcher et le rituel est interrompu.
-L’exécution de ce rituel coûte un (1) point d’Expérience, qu’il réussisse ou non. le Mystique ne peut pas effectuer ce rituel pour quelqu’un d’autre ; seul celui qui accomplit le rituel peut bénéficier de ses effets.
-
-#### Liens du jugement
-**Tradition** : Théurgie
-Le Mystique envoie une lumière calmante s’infiltrer à travers les chaînes ou les menottes emprisonnant une personne. Cela empêche la personne retenue prisonnière d’utiliser des pouvoirs mystiques et des Traits qui requièrent un test de Volonté. Néanmoins, la lumière disparaît des menottes au fil du temps, l’effet doit donc être maintenu par le renouvellement du rituel tous les mois.
-
-#### Oracle
-**Tradition** : Théurgie
-La réussite d’un test de Volonté permet au Mystique de poser une question ouverte au sujet du futur de l’aventure en cours. Ce rituel ne peut être accompli qu’une seule fois par aventure, quels que soient les événements en cours. La réponse du Meneur de Jeu doit être honnête, mais pas nécessairement simple à interpréter ni trop évidente.
-
-#### Rite de sanctification
-**Tradition** : Théurgie
-Le Mystique consacre un lieu, le protégeant ainsi de toute influence mystique extérieure.
-Un lieu ainsi sanctifié bloque les rituels tels que Clairvoyance, Invocation, Chasse à l’hérétique et leurs équivalents. Toutefois, dans le cas où l’un de ces rituels suit la trace d’une personne ou la pourchasse, la protection prend fin aussitôt que la personne traquée quitte le lieu sanctifié.
-Les abominations (les créatures appartenant à la catégorie de monstres : Abominations) sont prises de nausées lorsqu’elles s’approchent d’un endroit sanctifié, et subissent 1D4 dégâts ignorant l’Armure, à chaque tour passé sur le sol consacré. 
-Les créatures marquées par la Corruption, mais qui ne se sont pas encore changées en pures abominations, ressentent un profond malaise à l’approche de lieux et d’objets consacrés.
-Le Rite de sanctification peut également être accompli sur une arme, auquel cas il constitue une condition à l’utilisation du pouvoir Marteau à sorcière.
-
-#### Saint patron
-**Tradition** : Théurgie
-Le Mystique est accompagné d’un esprit gardien, l’âme d’un Templier tombé au combat ayant reçu l’honorable mission de servir à nouveau un élu du Dieu-Soleil. Le martyr protecteur se manifeste sous la forme d’un guerrier de lumière, invisible en temps normal, mais qui se met à étinceler lorsque le danger est proche et qui défend son protégé jusqu’à sa seconde mort. Un Mystique ne peut avoir qu’un seul Saint patron lié à lui à la fois et, si l’esprit est détruit d’une quelconque manière, le Mystique devra en invoquer un nouveau.
-Un Saint patron est géré par le joueur comme s’il disposait d’un personnage 
-supplémentaire. Il gagne de l’Expérience comme le personnage d’un joueur, et ce dernier le perd s’il meurt, comme n’importe quel autre personnage.
-
-**Saint patron**
-Un saint patron débute avec les statistiques suivantes :
-Agilité 15, Astuce 7, Discrétion 9, Force 11, Persuasion 5, Précision 13, Vigilance 10, Volonté 10
-Armes Fléau de lumière 1D6
-Défense 15 (Esquive)
-Armure Halo rayonnant 1D4 (Pratique)
-Endurance 11 Résist. à la douleur 6
-
-# Dons du Sentier  
-
-## Purgatoire
-**Tradition** : Accessible uniquement aux Inquisiteurs
-Matériel : Un petit segment de chaîne rouillée Les âmes noires résonnent de cris de douleur et de Ténèbres ; un Inquisiteur entraîné peut faire usage de ces Ténèbres contre l’ennemi pour, dans le meilleur des cas, noyer sa cible dans sa propre noirceur intérieure.
-| | | |
-|---|---|---|
-|Novice|Active.|Le Mystique contraint sa cible à lancer 1D20 contre sa propre Corruption totale (voir Livre de base p132). Un échec provoque des douleurs aiguës qui empêchent la cible d’agir pendant un tour entier. À la place, les créatures profondément corrompues subissent automatiquement, 1D6 points de dégâts, ignorant l’Armure.|
-|Adepte|Active.|Le Mystique contraint toutes les cibles en vue à lancer 1D20 contre leur propre Corruption totale. Un échec provoque des douleurs aiguës qui empêchent les cibles d’agir pendant un tour entier. À la place, les créatures profondément corrompues subissent automatiquement, 1D6 points de dégâts, ignorant l’Armure.|
-|Maître|Réactive.|Le Mystique punit automatiquement tous les ennemis en vue, qui attirent la Corruption. Le Mystique peut exclure autant d’alliés qu’il souhaite de cet effet. Chaque point de Corruption subi suite à l’utilisation de Pouvoirs ou d’artéfacts mystiques inflige la même quantité de dégâts physiques à l’ennemi, ignorant l’Armure.|
-
-## Regard perçant
-**Tradition** : Accessible uniquement aux Inquisiteurs
-Le niveau supérieur du Rituel Fumée révélatrice permet au Théurge de bénéficier d’une deuxième chance de réussite sur tous les tests lorsqu’il utilise Fumée révélatrice. En outre, en réussissant un test d’Astuce, le Regard perçant voit au travers du Rituel Échange d’ombre, révélant la véritable ombre dissimulée derrière l’illusion.
