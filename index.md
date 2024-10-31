@@ -7,7 +7,7 @@ category: documentation
 
 # Sandro
 
-| ![Sandro](Sandro.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ![Sandro](attachments/Sandro.jpg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Issu d’une famille noble, né avec une cuillère en argent dans la bouche, il était appelé à prendre la tête du domaine familial et à hériter des titres de son père. A la surprise de sa famille, il décide de se vouer à l’Eglise de Prios au lieu de se consacrer à la gestion du domaine familial et à la guerre. Pourquoi choisir Prios plutôt qu’une vie de seigneur ? Ce choix, bien qu’il ne soit pas celui que ses parents souhaitaient initialement pour lui, aurait pu être accepté par ses parents si il s’était consacré à la prêtrise et à atteindre une position influente au sein de l’Eglise de Prios ou de l’Ordre des Chevaliers du Soleil Mourant mais, au lieu de ça, il choisit de rejoindre l’ordre des Frères du Crépuscule et de devenir un chasseur de sorciers. Pourquoi choisir, presque exprès, de choisir un ordre aussi dur et aussi peu prestigieux a priori que l’ordre des manteaux noirs ? |
 
@@ -28,11 +28,27 @@ category: documentation
 
 | Endurance | Résistance à la douleur | Seuil de corruption | Défense |
 | --------- | ----------------------- | ------------------- | ------- |
-| 10        | 4                       | 15*                 | 10      |
+| 10        | 4                       | 8                 | 10      |
 
 \* Don exceptionnel **Adepte**
 
 ## Capacités 
+
+|  |  | 
+| --- | --- | --- | --- |
+|Atout|[Privilégié](#Privilégié)|||
+|Fardeau|[Code d’honneur](#Code-d-honneur)|||
+|Fardeau|[Cauchemars](#Cauchemars)|||
+|Talent|[Don Exceptionnel](<#Don-Exceptionnel>)|Novice|Active|
+|Talent|Érudit|Adepte|Gratuit|
+|Talent|Ritualiste|Adepte|Spécial|
+|Talent|Théurgie|Adepte|Spécial|
+|Talent|Vision de l’ombre|Novice|Gratuit|
+|Pouvoir|Anathème|Novice|Active|
+|Pouvoir|Imperceptible|Adepte|Active|
+|Pouvoir|Imposition des mains|Novice|Active|
+|Pouvoir|Verre ardent de Prios|Adepte|Active|
+
 ## Atouts
 
 ### Privilégié
@@ -43,7 +59,7 @@ En outre, le personnage débute la partie avec cinquante thalers dans sa bourse.
 
 ## Fardeaux
 
-### Code d’honneur
+### Code d honneur
 
 Le personnage a adopté un code d’honneur très strict, applicable dans toutes les situations. Cela peut se révéler être une gêne lors d’un combat, car le personnage joueur ne peut le fuir une fois qu’il a débuté. Il est bien sûr toujours possible d’éviter un combat mais, lorsqu’il est en cours, tous les ennemis doivent être vaincus !
 
