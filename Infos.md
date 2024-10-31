@@ -1,27 +1,24 @@
+## Corruption
 
-### Corruption
+Les théurges de Prios enseignent que la Corruption apparaît lorsque la nature est  autorisée à s’accroître sans être cultivée et domestiquée. 
 
-Les théurges de Prios enseignent que la Corruption apparaît lorsque la nature est  
-autorisée à s’accroître sans être cultivée et domestiquée. La Corruption prospère dans les régions sauvages, le chaos, tout ce qui n’est pas contrôlé par les humains — et ils semblent trouver toutes les preuves nécessaires à la confirmation de leur interprétation du monde, à chaque fois qu’ils sont confrontés à Davokar.  
+La Corruption prospère dans les régions sauvages, le chaos, tout ce qui n’est pas contrôlé par les humains — et ils semblent trouver toutes les preuves nécessaires à la confirmation de leur interprétation du monde, à chaque fois qu’ils sont confrontés à Davokar.  
+
 Chaque fidèle de Prios doit accepter la menace de Corruption qui pèse sur lui et conserver l’éclat de sa flamme intérieure malgré le risque de contamination, à l’instar d’Ofelya d’Attio, Porteuse de Lumière qui, se tenant au pied de la forteresse des Sombres Seigneurs, aurait déclaré : « C’est par le feu que le feu sera combattu et par les ténèbres que les ténèbres seront vaincues ! ».
+## Pouvoirs Mystiques
 
-# Pouvoirs Mystiques
-
-Les pouvoirs mystiques sont une manifestation d’énergies mystiques manipulées  
-et guidées par un esprit entraîné ou naturellement doué. Pour certains, ces pouvoirs  
-sont un don inné. Mais dans la plupart des cas, les pouvoirs se développent grâce à de  
-nombreuses années de travail en compagnie d’un maître patient, ayant pour rôle de  
-guider son disciple et de le remettre dans la bonne voie. Qu’ils soient le fruit d’un don,  
-de longues études ou d’années de persévérance, ces pouvoirs ne sont pas uniquement  
-un outil entre les mains de leurs utilisateurs. Ils définissent leur identité.
-
-Théurgie
+Les pouvoirs mystiques sont une manifestation d’énergies mystiques manipulées et guidées par un esprit entraîné ou naturellement doué. Pour certains, ces pouvoirs  sont un don inné. Mais dans la plupart des cas, les pouvoirs se développent grâce à de nombreuses années de travail en compagnie d’un maître patient, ayant pour rôle de  
+guider son disciple et de le remettre dans la bonne voie. Qu’ils soient le fruit d’un don, de longues études ou d’années de persévérance, ces pouvoirs ne sont pas uniquement  un outil entre les mains de leurs utilisateurs. Ils définissent leur identité.
+## Théurgie
 
 De nos jours, la théurgie représente les enseignements du pouvoir mystique qui émane du  
 soleil et rayonne au coeur de l’esprit humain.  
-Ses pouvoirs ne se rencontrent que chez les plus fervents adorateurs de la lumière : les champions élus de Prios. Les théurges sont considérés comme les émissaires de Prios dans le monde des vivants et leur fardeau est bel et bien considérable. Ils accompagnent les fidèles dans leurs prières, guidant ainsi le soleil à travers les ténèbres des abîmes, nuit après nuit. Leur dévotion empêche la lumière divine de s’éteindre, car sans leur labeur, le Dieu-Soleil, déjà affaibli, mourrait immanquablement et le monde plongerait dans la Nuit éternelle.  
-La théurgie est une ancienne tradition, développée à l’origine par les prêtres serviteurs des  
-Anciens Dieux. Érudits et autres savants sont en perpétuel désaccord quant à savoir si la sorcellerie est plus ancienne que la théurgie ou si au contraire la théurgie a précédé toutes les autres traditions. Quelle que soit la réponse, la théurgie connaît aujourd’hui son âge d’or. Depuis que Prios s’est assuré la foi et la dévotion de la plupart des Ambriens, les porteurs de cette tradition prospèrent.  
+Ses pouvoirs ne se rencontrent que chez les plus fervents adorateurs de la lumière : les champions élus de Prios. 
+
+Les théurges sont considérés comme les émissaires de Prios dans le monde des vivants et leur fardeau est bel et bien considérable. Ils accompagnent les fidèles dans leurs prières, guidant ainsi le soleil à travers les ténèbres des abîmes, nuit après nuit. Leur dévotion empêche la lumière divine de s’éteindre, car sans leur labeur, le Dieu-Soleil, déjà affaibli, mourrait immanquablement et le monde plongerait dans la Nuit éternelle.  
+
+La théurgie est une ancienne tradition, développée à l’origine par les prêtres serviteurs des  Anciens Dieux. Érudits et autres savants sont en perpétuel désaccord quant à savoir si la sorcellerie est plus ancienne que la théurgie ou si au contraire la théurgie a précédé toutes les autres traditions. Quelle que soit la réponse, la théurgie connaît aujourd’hui son âge d’or. Depuis que Prios s’est assuré la foi et la dévotion de la plupart des Ambriens, les porteurs de cette tradition prospèrent.  
+
 Il leur importe peu de savoir quelles traditions sont les plus anciennes ou celle qui naquit  
 en premier. L’adoration des lichens et la vénération des arbres demeurent indignes de l’esprit sacré des humains et la plupart des théurges considèrent la sorcellerie comme une voie qui ne peut mener qu’à la décadence et à la conjuration. Ils voient la magie — l’ordre mystique issu des fondements de l’ancienne théurgie — de la même façon : une pratique impie et moralement contestable.
 
