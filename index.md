@@ -23,31 +23,26 @@ category: documentation
 | Discrétion | 9   | Force     | 7   |
 | Persuasion | 10  | Précision | 5   |
 | Vigilance  | 13  | Volonté   | 15  |
-
-## Attributs dérivés
-
-| Endurance | Résistance à la douleur | Seuil de corruption | Défense |
-| --------- | ----------------------- | ------------------- | ------- |
-| 10        | 4                       | 8                 | 10      |
-
-\* Don exceptionnel **Adepte**
+|            |     |           |     |
+| Endurance  | 10  | Seuil C.  | 8   |
+| Douleur    | 4   | Défense   | 10  |
 
 ## Capacités 
 
-|  |  | 
-| --- | --- | --- | --- |
-|Atout|[Privilégié](#Privilégié)|||
-|Fardeau|[Code d’honneur](#Code-d-honneur)|||
-|Fardeau|[Cauchemars](#Cauchemars)|||
-|Talent|[Don Exceptionnel](<#Don-Exceptionnel>)|Novice|Active|
-|Talent|Érudit|Adepte|Gratuit|
-|Talent|Ritualiste|Adepte|Spécial|
-|Talent|Théurgie|Adepte|Spécial|
-|Talent|Vision de l’ombre|Novice|Gratuit|
-|Pouvoir|Anathème|Novice|Active|
-|Pouvoir|Imperceptible|Adepte|Active|
-|Pouvoir|Imposition des mains|Novice|Active|
-|Pouvoir|Verre ardent de Prios|Adepte|Active|
+| Type    | Nom                                     | Niveau |         | Page |
+| ------- | --------------------------------------- | ------ | ------- | ---- |
+| Atout   | [Privilégié](#Privilégié)               |        |         | A113 |
+| Fardeau | [Code d’honneur](#Code-d-honneur)       |        |         | B56  |
+| Fardeau | [Cauchemars](#Cauchemars)               |        |         | B56  |
+| Talent  | [Don Exceptionnel](<#Don-Exceptionnel>) | Novice | Active  | B64  |
+| Talent  | Érudit                                  | Adepte | Gratuit | A119 |
+| Talent  | Ritualiste                              | Adepte | Spécial | A125 |
+| Talent  | Théurgie                                | Adepte | Spécial | A126 |
+| Talent  | Vision de l’ombre                       | Novice | Gratuit | A127 |
+| Pouvoir | Anathème                                | Novice | Active  | A134 |
+| Pouvoir | Imperceptible                           | Adepte | Active  | A137 |
+| Pouvoir | Imposition des mains                    | Novice | Active  | A137 |
+| Pouvoir | Verre ardent de Prios                   | Adepte | Active  | A142 |
 
 ## Atouts
 
