@@ -1,5 +1,0 @@
-Sur notre petite planète, en ce moment, nous nous trouvons à
-un tournant décisif de l'histoire. Ce que nous faisons de notre planète, maintenant, se propagera à travers les siècles et affectera puissamment le destin de nos descendants.
-Il est en notre pouvoir de détruire notre civilisation et, peut-être, notre espèce. Si nous capitulons devant la superstition, la cupidité ou la stupidité, nous pouvons plonger notre monde dans une obscurité plus profonde que la période qui s'est écoulée entre l'effondrement de la civilisation classique et la renaissance italienne.
-Mais nous sommes également capables d'utiliser notre compassion et notre intelligence, notre technologie et notre richesse, pour créer une vie abondante et pleine de sens pour chaque habitant de cette planète. D'améliorer considérablement notre compréhension de l'univers et de nous emmener vers les étoiles...
-- Carl Sagan, Cosmos
