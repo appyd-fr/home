@@ -7,7 +7,7 @@
 |Empathie|Conviction|Ascendant|Coutumes|
 
 ||Confrontation|
-|---|---|
+|:---|:---:|
 ||3|
 |  |  |
 |Armement|2|
