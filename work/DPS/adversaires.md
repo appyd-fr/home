@@ -1,4 +1,8 @@
 
- | Alerte|Avisé|Solide|Tenace|
--|-
- | 
+| | |Alerte|Avisé|Solide|Tenace|
+|---|---|---|---|---|---|
+| | |||||
+|Action | |||||
+|Compréhension| |||||
+|Confrontation| |||||
+|Interaction| |||||
