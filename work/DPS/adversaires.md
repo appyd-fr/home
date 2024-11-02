@@ -9,10 +9,6 @@
 
 
 Solide - 4
-
+|||Armement|Tactique|Affrontement|Sang-Froid|
 |---|---|---|---|---|---|
-|||2|2|4|2|
-|Action|3|||Athétisme2||
-|Compréhension|2|||Vigilance 2||
-|Confrontation|3|||Affrontement 3||
-|Interaction|2|||Ascendant 1||
+|Confrontation|3|||3||
