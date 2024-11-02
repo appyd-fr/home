@@ -7,6 +7,14 @@
 |Confrontation|3|||Affrontement 3||
 |Interaction|2|||Ascendant 1||
 
+|Alerte|Avisé|Solide|Tenace|
+|---|---|---|---|
+|2|2|4|2|
+|Pilotage|Subterfuge|Athlétisme|Survie|
+|Techniques|Analyse|Vigilance|Savoirs|
+|Armement|Tactique|Affrontement|Sang-froid|
+|Empathie|Conviction|Ascendant|Coutumes|
+
 ||Confrontation|
 |---|---|
 ||3|
