@@ -18,3 +18,5 @@
 Les relations notées côté pj sont ce que le pj pense du pnj / pense être pour les pnj
 
 Utilisation attributs compétences pnj en dépense de points 
+
+Type de des = blessures 
