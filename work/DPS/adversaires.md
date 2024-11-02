@@ -12,3 +12,12 @@ Solide - 4
 |||Armement|Tactique|Affrontement|Sang-Froid|
 |---|---|---|---|---|---|
 |Confrontation|3|2|2|3|3|
+
+||Confrontation|
+|---|---|
+||3|
+| - | - |
+|Armement|2|
+|Tactique|2|
+|Affrontement|3|
+|Sang-Froid|3|
