@@ -1,4 +1,4 @@
 
- | 
+ | Alerte|Avisé|Solide|Tenace|
 -|-
  | 
