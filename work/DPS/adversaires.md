@@ -14,3 +14,7 @@
 |Tactique|2|
 |Affrontement|3|
 |Sang-Froid|3|
+
+Les relations notées côté pj sont ce que le pj pense du pnj / pense être pour les pnj
+
+Utilisation attributs compétences pnj en dépense de points 
