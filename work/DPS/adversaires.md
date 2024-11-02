@@ -10,7 +10,7 @@
 ||Confrontation|
 |---|---|
 ||3|
-| - | - |
+|  |  |
 |Armement|2|
 |Tactique|2|
 |Affrontement|3|
