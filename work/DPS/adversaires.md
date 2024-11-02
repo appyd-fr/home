@@ -1,8 +1,8 @@
 
 | | |Alerte|Avisé|Solide|Tenace|
 |---|---|---|---|---|---|
-| | |||||
-|Action | |||||
-|Compréhension| |||||
-|Confrontation| |||||
-|Interaction| |||||
+|||2|2|4|2|
+|Action|3|||||
+|Compréhension|2|||||
+|Confrontation|3|||||
+|Interaction|2|||||
