@@ -15,3 +15,4 @@ Profane - Amateur - Apprenti - Compagnon - Maître
 Nombre de Dés : 1 .. 5
 Flag : Inné - 1D à 1 est transformé en Succès 
 Flag : Élite - Face Max du Dé = 2 Succès 
+Spécialisations : Tags
