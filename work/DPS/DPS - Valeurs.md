@@ -10,6 +10,7 @@ Inapte - Commun - Talentueux - Virtuose
 Type de Dé : D20, D12, D8, D6
 Ressource : Focus
 Prendre 1 Avantage
+Déclencher 1 capacité
 
 ## Compétences
 Valeurs : 1 .. 4
