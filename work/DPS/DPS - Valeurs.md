@@ -12,12 +12,16 @@ Ressource : Focus
 Prendre 1 Avantage
 
 ## Compétences
-Valeurs : 1 .. 5
-Profane - Amateur - Apprenti - Compagnon - Maître
-Nombre de Dés : 1 .. 5
+Valeurs : 1 .. 4
+Profane - Apprenti - Compagnon - Maître
+Nombre de Dés : 1 .. 4
 Flag : Inné - 1D à 1 est transformé en Succès 
 Flag : Élite - Face Max du Dé = 2 Succès 
 Spécialisations : Tags
+
+## Avantage & Désavantage
+Avantage +1 Dé
+Désavantage +1 Dé - retirer Dé le plus élevé
 
 ## Cartes
 <= Attribut = 1 Succès
