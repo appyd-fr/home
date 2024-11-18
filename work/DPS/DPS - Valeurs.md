@@ -20,6 +20,9 @@ Flag : Élite - Face Max du Dé = 2 Succès
 Spécialisations : Tags
 
 ## Avantage & Désavantage
+
+1 donné par :  Contexte, Focus, Adversaire
+Max 1.
 Avantage +1 Dé
 Désavantage +1 Dé - retirer Dé le plus élevé
 
