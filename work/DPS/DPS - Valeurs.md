@@ -6,7 +6,7 @@ Ressource : Effort
 ## Aptitudes 
 Valeurs : 1 .. 4
 Inapte - Commun - Talentueux - Virtuose
-Type de Dé : D20, 
+Type de Dé : D20, D12, D8, D6
 Ressource : Focus
 
 ## Compétences
