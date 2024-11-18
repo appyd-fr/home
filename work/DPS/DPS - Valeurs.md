@@ -3,6 +3,7 @@ Valeurs : 1 .. 4
 Seuil: 2..5
 Ressource : Effort
 Décaler difficulté : —> 3-6
+Déclencher 1 capacité
 
 ## Aptitudes 
 Valeurs : 1 .. 4
