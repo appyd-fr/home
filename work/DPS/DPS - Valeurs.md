@@ -1,12 +1,12 @@
 ## Attributs
-Valeurs : 1 .. 5
-Seuil: 8 .. 4
+Valeurs : 1 .. 4
+Seuil: 2..5
 Ressource : Effort
 
 ## Aptitudes 
-Valeurs : 1 .. 5
-Inapte - Commun - Doué - Talentueux - Virtuose
-Type de Dé : D4 .. D12
+Valeurs : 1 .. 4
+Inapte - Commun - Talentueux - Virtuose
+Type de Dé : D20, 
 Ressource : Focus
 
 ## Compétences
