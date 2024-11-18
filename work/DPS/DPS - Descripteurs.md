@@ -21,6 +21,7 @@ Ascendant, Conviction, Coutumes, Empathie
 ## Compétences
 | |Alerte|Avisé|Solide|Tenace|
 |---|---|---|---|---|
+| |Alerte|Avisé|Solide|Tenace|
 |Action|==Pilotage==|==Subterfuge==|==Athlétisme==|==Survie==|
 |Compréhension|==Techniques==|==Analyse==|==Vigilance==|==Savoirs==|
 |Confrontation|==Armement==|==Tactique==|==Affrontement==|==Sang-froid==|
